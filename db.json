@@ -9,7 +9,7 @@
     "per_page": 25
     }
     },
-    "data": [
+    "romance": [
     {
     "mal_id": 38826,
     "url": "https://myanimelist.net/anime/38826/Tenki_no_Ko",
@@ -4126,5 +4126,3667 @@
     }
     ]
     }
+    ],
+    "sport":[
+        {
+            "mal_id": 15,
+            "url": "https://myanimelist.net/anime/15/Eyeshield_21",
+            "images": {
+            "jpg": {
+            "image_url": "https://cdn.myanimelist.net/images/anime/1079/133529.jpg",
+            "small_image_url": "https://cdn.myanimelist.net/images/anime/1079/133529t.jpg",
+            "large_image_url": "https://cdn.myanimelist.net/images/anime/1079/133529l.jpg"
+            },
+            "webp": {
+            "image_url": "https://cdn.myanimelist.net/images/anime/1079/133529.webp",
+            "small_image_url": "https://cdn.myanimelist.net/images/anime/1079/133529t.webp",
+            "large_image_url": "https://cdn.myanimelist.net/images/anime/1079/133529l.webp"
+            }
+            },
+            "trailer": {
+            "youtube_id": null,
+            "url": null,
+            "embed_url": null,
+            "images": {
+            "image_url": null,
+            "small_image_url": null,
+            "medium_image_url": null,
+            "large_image_url": null,
+            "maximum_image_url": null
+            }
+            },
+            "approved": true,
+            "titles": [
+            {
+            "type": "Default",
+            "title": "Eyeshield 21"
+            },
+            {
+            "type": "Synonym",
+            "title": "Eyeshield21"
+            },
+            {
+            "type": "Japanese",
+            "title": "アイシールド21"
+            }
+            ],
+            "title": "Eyeshield 21",
+            "title_english": null,
+            "title_japanese": "アイシールド21",
+            "title_synonyms": [
+            "Eyeshield21"
+            ],
+            "type": "TV",
+            "source": "Manga",
+            "episodes": 145,
+            "status": "Finished Airing",
+            "airing": false,
+            "aired": {
+            "from": "2005-04-06T00:00:00+00:00",
+            "to": "2008-03-19T00:00:00+00:00",
+            "prop": {
+            "from": {
+            "day": 6,
+            "month": 4,
+            "year": 2005
+            },
+            "to": {
+            "day": 19,
+            "month": 3,
+            "year": 2008
+            }
+            },
+            "string": "Apr 6, 2005 to Mar 19, 2008"
+            },
+            "duration": "23 min per ep",
+            "rating": "PG-13 - Teens 13 or older",
+            "score": 7.92,
+            "scored_by": 87354,
+            "rank": 716,
+            "popularity": 1266,
+            "members": 179789,
+            "favorites": 2012,
+            "synopsis": "Shy, reserved, and small-statured, Deimon High School student Sena Kobayakawa is the perfect target for bullies. However, as a result of running errands throughout his life, Sena has become agile and developed a skill for avoiding crowds of people. After the cunning Youichi Hiruma—captain of the Deimon Devil Bats football team—witnesses Sena's rapid legs in motion, he coerces the timid boy into joining his squad.\n\nAs Hiruma wants to conceal Sena's identity from other clubs, Sena is forced to hide under the visored helmet of \"Eyeshield 21,\" a mysterious running back wearing the number 21 jersey. The legendary Eyeshield 21 can supposedly run at the speed of light and has achieved remarkable feats in the United States during his time at the Notre Dame College.\n\nAccustomed to avoiding his problems in the past, Sena's specialty might just help him become the new secret weapon of the Deimon Devil Bats. As he interacts with his teammates, Sena gradually gains more self-confidence and forges valuable bonds along the way.\n\n[Written by MAL Rewrite]",
+            "background": "Eyeshield 21 was original scheduled to stream in North America on Toonami Jetstream and NFL Rush in collaboration with the National Football League, but the plan fell through and the anime made its debut only on Toonami Jetstream, which later dropped the series. It would then become available in its entirety on Crunchyroll. Sentai Filmworks later licensed and released the first 52 episodes on DVD from 2010 to 2011.",
+            "season": "spring",
+            "year": 2005,
+            "broadcast": {
+            "day": "Wednesdays",
+            "time": "19:00",
+            "timezone": "Asia/Tokyo",
+            "string": "Wednesdays at 19:00 (JST)"
+            },
+            "producers": [
+            {
+            "mal_id": 16,
+            "type": "anime",
+            "name": "TV Tokyo",
+            "url": "https://myanimelist.net/anime/producer/16/TV_Tokyo"
+            },
+            {
+            "mal_id": 139,
+            "type": "anime",
+            "name": "Nihon Ad Systems",
+            "url": "https://myanimelist.net/anime/producer/139/Nihon_Ad_Systems"
+            },
+            {
+            "mal_id": 717,
+            "type": "anime",
+            "name": "TV Tokyo Music",
+            "url": "https://myanimelist.net/anime/producer/717/TV_Tokyo_Music"
+            },
+            {
+            "mal_id": 1365,
+            "type": "anime",
+            "name": "Shueisha",
+            "url": "https://myanimelist.net/anime/producer/1365/Shueisha"
+            }
+            ],
+            "licensors": [
+            {
+            "mal_id": 119,
+            "type": "anime",
+            "name": "VIZ Media",
+            "url": "https://myanimelist.net/anime/producer/119/VIZ_Media"
+            },
+            {
+            "mal_id": 376,
+            "type": "anime",
+            "name": "Sentai Filmworks",
+            "url": "https://myanimelist.net/anime/producer/376/Sentai_Filmworks"
+            }
+            ],
+            "studios": [
+            {
+            "mal_id": 36,
+            "type": "anime",
+            "name": "Gallop",
+            "url": "https://myanimelist.net/anime/producer/36/Gallop"
+            }
+            ],
+            "genres": [
+            {
+            "mal_id": 30,
+            "type": "anime",
+            "name": "Sports",
+            "url": "https://myanimelist.net/anime/genre/30/Sports"
+            }
+            ],
+            "explicit_genres": [],
+            "themes": [
+            {
+            "mal_id": 77,
+            "type": "anime",
+            "name": "Team Sports",
+            "url": "https://myanimelist.net/anime/genre/77/Team_Sports"
+            }
+            ],
+            "demographics": [
+            {
+            "mal_id": 27,
+            "type": "anime",
+            "name": "Shounen",
+            "url": "https://myanimelist.net/anime/genre/27/Shounen"
+            }
+            ]
+            },
+            {
+            "mal_id": 17,
+            "url": "https://myanimelist.net/anime/17/Hungry_Heart__Wild_Striker",
+            "images": {
+            "jpg": {
+            "image_url": "https://cdn.myanimelist.net/images/anime/12/49655.jpg",
+            "small_image_url": "https://cdn.myanimelist.net/images/anime/12/49655t.jpg",
+            "large_image_url": "https://cdn.myanimelist.net/images/anime/12/49655l.jpg"
+            },
+            "webp": {
+            "image_url": "https://cdn.myanimelist.net/images/anime/12/49655.webp",
+            "small_image_url": "https://cdn.myanimelist.net/images/anime/12/49655t.webp",
+            "large_image_url": "https://cdn.myanimelist.net/images/anime/12/49655l.webp"
+            }
+            },
+            "trailer": {
+            "youtube_id": null,
+            "url": null,
+            "embed_url": null,
+            "images": {
+            "image_url": null,
+            "small_image_url": null,
+            "medium_image_url": null,
+            "large_image_url": null,
+            "maximum_image_url": null
+            }
+            },
+            "approved": true,
+            "titles": [
+            {
+            "type": "Default",
+            "title": "Hungry Heart: Wild Striker"
+            },
+            {
+            "type": "Japanese",
+            "title": "ハングリーハート Wild Striker"
+            }
+            ],
+            "title": "Hungry Heart: Wild Striker",
+            "title_english": null,
+            "title_japanese": "ハングリーハート Wild Striker",
+            "title_synonyms": [],
+            "type": "TV",
+            "source": "Manga",
+            "episodes": 52,
+            "status": "Finished Airing",
+            "airing": false,
+            "aired": {
+            "from": "2002-09-11T00:00:00+00:00",
+            "to": "2003-09-10T00:00:00+00:00",
+            "prop": {
+            "from": {
+            "day": 11,
+            "month": 9,
+            "year": 2002
+            },
+            "to": {
+            "day": 10,
+            "month": 9,
+            "year": 2003
+            }
+            },
+            "string": "Sep 11, 2002 to Sep 10, 2003"
+            },
+            "duration": "23 min per ep",
+            "rating": "PG-13 - Teens 13 or older",
+            "score": 7.55,
+            "scored_by": 13103,
+            "rank": 1616,
+            "popularity": 4289,
+            "members": 24452,
+            "favorites": 238,
+            "synopsis": "As the younger brother of Japanese soccer star Seisuke Kanou, Kyousuke was always expected to grow as a soccer player at the same pace his brother did—an expectation that proved too difficult to meet. Having fallen behind, he now lives in the shadow of his brother's success.\n\nEntering his freshman year at Jouyou Akanegaoka High School, Kyousuke vows never to play soccer again. However, Miki Tsujiwaki, the captain of the girls' soccer team, and Mori Kazuto, the manager of the boys' team, recognize Kyousuke's potential and want to see his return to the game for their own reasons.\n\nWith an opportunity to play soccer again, Kyousuke must either remain steadfast in his decision to abandon the sport he once loved, or allow himself to reignite that flame to become the best striker in the world.\n\n[Written by MAL Rewrite]",
+            "background": "Hungry Heart: Wild Striker was released on DVD by Pony Canyon in Japan from February 19, 2003 to March 17, 2004.",
+            "season": "fall",
+            "year": 2002,
+            "broadcast": {
+            "day": null,
+            "time": null,
+            "timezone": null,
+            "string": "Wednesdays at Unknown"
+            },
+            "producers": [],
+            "licensors": [],
+            "studios": [
+            {
+            "mal_id": 22,
+            "type": "anime",
+            "name": "Nippon Animation",
+            "url": "https://myanimelist.net/anime/producer/22/Nippon_Animation"
+            }
+            ],
+            "genres": [
+            {
+            "mal_id": 4,
+            "type": "anime",
+            "name": "Comedy",
+            "url": "https://myanimelist.net/anime/genre/4/Comedy"
+            },
+            {
+            "mal_id": 36,
+            "type": "anime",
+            "name": "Slice of Life",
+            "url": "https://myanimelist.net/anime/genre/36/Slice_of_Life"
+            },
+            {
+            "mal_id": 30,
+            "type": "anime",
+            "name": "Sports",
+            "url": "https://myanimelist.net/anime/genre/30/Sports"
+            }
+            ],
+            "explicit_genres": [],
+            "themes": [
+            {
+            "mal_id": 77,
+            "type": "anime",
+            "name": "Team Sports",
+            "url": "https://myanimelist.net/anime/genre/77/Team_Sports"
+            }
+            ],
+            "demographics": [
+            {
+            "mal_id": 27,
+            "type": "anime",
+            "name": "Shounen",
+            "url": "https://myanimelist.net/anime/genre/27/Shounen"
+            }
+            ]
+            },
+            {
+            "mal_id": 22,
+            "url": "https://myanimelist.net/anime/22/Tennis_no_Oujisama",
+            "images": {
+            "jpg": {
+            "image_url": "https://cdn.myanimelist.net/images/anime/6/21624.jpg",
+            "small_image_url": "https://cdn.myanimelist.net/images/anime/6/21624t.jpg",
+            "large_image_url": "https://cdn.myanimelist.net/images/anime/6/21624l.jpg"
+            },
+            "webp": {
+            "image_url": "https://cdn.myanimelist.net/images/anime/6/21624.webp",
+            "small_image_url": "https://cdn.myanimelist.net/images/anime/6/21624t.webp",
+            "large_image_url": "https://cdn.myanimelist.net/images/anime/6/21624l.webp"
+            }
+            },
+            "trailer": {
+            "youtube_id": null,
+            "url": null,
+            "embed_url": null,
+            "images": {
+            "image_url": null,
+            "small_image_url": null,
+            "medium_image_url": null,
+            "large_image_url": null,
+            "maximum_image_url": null
+            }
+            },
+            "approved": true,
+            "titles": [
+            {
+            "type": "Default",
+            "title": "Tennis no Oujisama"
+            },
+            {
+            "type": "Synonym",
+            "title": "TeniPuri"
+            },
+            {
+            "type": "Synonym",
+            "title": "PoT"
+            },
+            {
+            "type": "Japanese",
+            "title": "テニスの王子様"
+            },
+            {
+            "type": "English",
+            "title": "The Prince of Tennis"
+            },
+            {
+            "type": "French",
+            "title": "The Prince of Tennis"
+            }
+            ],
+            "title": "Tennis no Oujisama",
+            "title_english": "The Prince of Tennis",
+            "title_japanese": "テニスの王子様",
+            "title_synonyms": [
+            "TeniPuri",
+            "PoT"
+            ],
+            "type": "TV",
+            "source": "Manga",
+            "episodes": 178,
+            "status": "Finished Airing",
+            "airing": false,
+            "aired": {
+            "from": "2001-10-10T00:00:00+00:00",
+            "to": "2005-03-23T00:00:00+00:00",
+            "prop": {
+            "from": {
+            "day": 10,
+            "month": 10,
+            "year": 2001
+            },
+            "to": {
+            "day": 23,
+            "month": 3,
+            "year": 2005
+            }
+            },
+            "string": "Oct 10, 2001 to Mar 23, 2005"
+            },
+            "duration": "22 min per ep",
+            "rating": "PG-13 - Teens 13 or older",
+            "score": 7.86,
+            "scored_by": 82776,
+            "rank": 834,
+            "popularity": 1259,
+            "members": 180377,
+            "favorites": 3034,
+            "synopsis": "At the request of his father, tennis prodigy Ryouma Echizen has returned from America and is ready to take the Japanese tennis scene by storm. Aiming to become the best tennis player in the country, he enrolls in Seishun Academy—home to one of the best middle school tennis teams in Japan. \n\nAfter Ryouma catches the captain's eye, he finds himself playing for a spot on the starting lineup in the intra-school ranking matches despite only being a freshman. Due to his age, the rest of the Seishun Boys' Tennis Team are initially reluctant to accept him, but his skill and determination convinces them to let him in.\n\nArmed with their new \"super rookie,\" Seishun sets out to claim a spot in the National Tournament, hoping to take the coveted title for themselves. In order to do so, the team must qualify by playing through the Tokyo Prefectural and Kanto Regionals. Yet, the road ahead of them is shared by a plethora of strong schools, each playing tennis in unique ways for their own reasons. Ryouma and his teammates must learn to cooperate if they want to become the champions they aspire to be.\n\n[Written by MAL Rewrite]",
+            "background": "On April 24, 2007, Viz Media released the first DVD box set in the United States. An additional three box sets have been released since January 15, 2008. However, these four sets only contain 50 of the 178 episodes. On April 2, 2021, Funimation obtained licensing rights to the series and announced a new dub was in the works.",
+            "season": "fall",
+            "year": 2001,
+            "broadcast": {
+            "day": "Wednesdays",
+            "time": "19:00",
+            "timezone": "Asia/Tokyo",
+            "string": "Wednesdays at 19:00 (JST)"
+            },
+            "producers": [
+            {
+            "mal_id": 10,
+            "type": "anime",
+            "name": "Production I.G",
+            "url": "https://myanimelist.net/anime/producer/10/Production_IG"
+            },
+            {
+            "mal_id": 139,
+            "type": "anime",
+            "name": "Nihon Ad Systems",
+            "url": "https://myanimelist.net/anime/producer/139/Nihon_Ad_Systems"
+            }
+            ],
+            "licensors": [
+            {
+            "mal_id": 102,
+            "type": "anime",
+            "name": "Funimation",
+            "url": "https://myanimelist.net/anime/producer/102/Funimation"
+            },
+            {
+            "mal_id": 119,
+            "type": "anime",
+            "name": "VIZ Media",
+            "url": "https://myanimelist.net/anime/producer/119/VIZ_Media"
+            }
+            ],
+            "studios": [
+            {
+            "mal_id": 80,
+            "type": "anime",
+            "name": "Trans Arts",
+            "url": "https://myanimelist.net/anime/producer/80/Trans_Arts"
+            }
+            ],
+            "genres": [
+            {
+            "mal_id": 30,
+            "type": "anime",
+            "name": "Sports",
+            "url": "https://myanimelist.net/anime/genre/30/Sports"
+            }
+            ],
+            "explicit_genres": [],
+            "themes": [
+            {
+            "mal_id": 23,
+            "type": "anime",
+            "name": "School",
+            "url": "https://myanimelist.net/anime/genre/23/School"
+            }
+            ],
+            "demographics": [
+            {
+            "mal_id": 27,
+            "type": "anime",
+            "name": "Shounen",
+            "url": "https://myanimelist.net/anime/genre/27/Shounen"
+            }
+            ]
+            },
+            {
+            "mal_id": 23,
+            "url": "https://myanimelist.net/anime/23/Ring_ni_Kakero_1",
+            "images": {
+            "jpg": {
+            "image_url": "https://cdn.myanimelist.net/images/anime/1146/124743.jpg",
+            "small_image_url": "https://cdn.myanimelist.net/images/anime/1146/124743t.jpg",
+            "large_image_url": "https://cdn.myanimelist.net/images/anime/1146/124743l.jpg"
+            },
+            "webp": {
+            "image_url": "https://cdn.myanimelist.net/images/anime/1146/124743.webp",
+            "small_image_url": "https://cdn.myanimelist.net/images/anime/1146/124743t.webp",
+            "large_image_url": "https://cdn.myanimelist.net/images/anime/1146/124743l.webp"
+            }
+            },
+            "trailer": {
+            "youtube_id": null,
+            "url": null,
+            "embed_url": null,
+            "images": {
+            "image_url": null,
+            "small_image_url": null,
+            "medium_image_url": null,
+            "large_image_url": null,
+            "maximum_image_url": null
+            }
+            },
+            "approved": true,
+            "titles": [
+            {
+            "type": "Default",
+            "title": "Ring ni Kakero 1"
+            },
+            {
+            "type": "Synonym",
+            "title": "Put it all in the Ring"
+            },
+            {
+            "type": "Japanese",
+            "title": "リングにかけろ１"
+            }
+            ],
+            "title": "Ring ni Kakero 1",
+            "title_english": null,
+            "title_japanese": "リングにかけろ１",
+            "title_synonyms": [
+            "Put it all in the Ring"
+            ],
+            "type": "TV",
+            "source": "Manga",
+            "episodes": 12,
+            "status": "Finished Airing",
+            "airing": false,
+            "aired": {
+            "from": "2004-10-06T00:00:00+00:00",
+            "to": "2004-12-15T00:00:00+00:00",
+            "prop": {
+            "from": {
+            "day": 6,
+            "month": 10,
+            "year": 2004
+            },
+            "to": {
+            "day": 15,
+            "month": 12,
+            "year": 2004
+            }
+            },
+            "string": "Oct 6, 2004 to Dec 15, 2004"
+            },
+            "duration": "23 min per ep",
+            "rating": "PG - Children",
+            "score": 6.41,
+            "scored_by": 1405,
+            "rank": 7112,
+            "popularity": 8367,
+            "members": 4695,
+            "favorites": 8,
+            "synopsis": "In order to fulfill their dead father's wish, the siblings Takane Kiku and Takane Ryuji aim for the champion title of the boxing arena. Their sister, Kiku, will act as the trainer while her brother, Ryuji, will concentrate on the role of the boxer and learn the Boomerang. His battle with many rivals has led to the growth and maturing of Ryuji. The junior high boxing tournament has begun and Ryuji will be fighting his arch-rival, Kenzaki Jun. The battle begins.\n\n(Source: ANN)",
+            "background": null,
+            "season": "fall",
+            "year": 2004,
+            "broadcast": {
+            "day": null,
+            "time": null,
+            "timezone": null,
+            "string": "Unknown"
+            },
+            "producers": [],
+            "licensors": [],
+            "studios": [
+            {
+            "mal_id": 18,
+            "type": "anime",
+            "name": "Toei Animation",
+            "url": "https://myanimelist.net/anime/producer/18/Toei_Animation"
+            }
+            ],
+            "genres": [
+            {
+            "mal_id": 1,
+            "type": "anime",
+            "name": "Action",
+            "url": "https://myanimelist.net/anime/genre/1/Action"
+            },
+            {
+            "mal_id": 30,
+            "type": "anime",
+            "name": "Sports",
+            "url": "https://myanimelist.net/anime/genre/30/Sports"
+            }
+            ],
+            "explicit_genres": [],
+            "themes": [
+            {
+            "mal_id": 54,
+            "type": "anime",
+            "name": "Combat Sports",
+            "url": "https://myanimelist.net/anime/genre/54/Combat_Sports"
+            }
+            ],
+            "demographics": [
+            {
+            "mal_id": 27,
+            "type": "anime",
+            "name": "Shounen",
+            "url": "https://myanimelist.net/anime/genre/27/Shounen"
+            }
+            ]
+            },
+            {
+            "mal_id": 170,
+            "url": "https://myanimelist.net/anime/170/Slam_Dunk",
+            "images": {
+            "jpg": {
+            "image_url": "https://cdn.myanimelist.net/images/anime/12/86890.jpg",
+            "small_image_url": "https://cdn.myanimelist.net/images/anime/12/86890t.jpg",
+            "large_image_url": "https://cdn.myanimelist.net/images/anime/12/86890l.jpg"
+            },
+            "webp": {
+            "image_url": "https://cdn.myanimelist.net/images/anime/12/86890.webp",
+            "small_image_url": "https://cdn.myanimelist.net/images/anime/12/86890t.webp",
+            "large_image_url": "https://cdn.myanimelist.net/images/anime/12/86890l.webp"
+            }
+            },
+            "trailer": {
+            "youtube_id": null,
+            "url": null,
+            "embed_url": null,
+            "images": {
+            "image_url": null,
+            "small_image_url": null,
+            "medium_image_url": null,
+            "large_image_url": null,
+            "maximum_image_url": null
+            }
+            },
+            "approved": true,
+            "titles": [
+            {
+            "type": "Default",
+            "title": "Slam Dunk"
+            },
+            {
+            "type": "Japanese",
+            "title": "スラムダンク"
+            },
+            {
+            "type": "English",
+            "title": "Slam Dunk"
+            }
+            ],
+            "title": "Slam Dunk",
+            "title_english": "Slam Dunk",
+            "title_japanese": "スラムダンク",
+            "title_synonyms": [],
+            "type": "TV",
+            "source": "Manga",
+            "episodes": 101,
+            "status": "Finished Airing",
+            "airing": false,
+            "aired": {
+            "from": "1993-10-16T00:00:00+00:00",
+            "to": "1996-03-23T00:00:00+00:00",
+            "prop": {
+            "from": {
+            "day": 16,
+            "month": 10,
+            "year": 1993
+            },
+            "to": {
+            "day": 23,
+            "month": 3,
+            "year": 1996
+            }
+            },
+            "string": "Oct 16, 1993 to Mar 23, 1996"
+            },
+            "duration": "23 min per ep",
+            "rating": "PG-13 - Teens 13 or older",
+            "score": 8.54,
+            "scored_by": 131768,
+            "rank": 110,
+            "popularity": 800,
+            "members": 289998,
+            "favorites": 7064,
+            "synopsis": "Hanamichi Sakuragi, infamous for his temper, massive height, and fire-red hair, enrolls in Shohoku High, hoping to finally get a girlfriend and break his record of being rejected 50 consecutive times in middle school. His notoriety precedes him, however, leading to him being avoided by most students. Soon, after certain events, Hanamichi is left with two unwavering thoughts: \"I hate basketball,\" and \"I desperately need a girlfriend.\"\n\nOne day, a girl named Haruko Akagi approaches him without any knowledge of his troublemaking ways and asks him if he likes basketball. Hanamichi immediately falls head over heels in love with her, blurting out a fervent affirmative. She then leads him to the gymnasium, where she asks him if he can do a slam dunk. In an attempt to impress Haruko, he makes the leap, but overshoots, instead slamming his head straight into the blackboard. When Haruko informs the basketball team's captain of Hanamichi's near-inhuman physical capabilities, he slowly finds himself drawn into the camaraderie and competition of the sport he had previously held resentment for.\n\n[Written by MAL Rewrite]",
+            "background": null,
+            "season": "fall",
+            "year": 1993,
+            "broadcast": {
+            "day": null,
+            "time": null,
+            "timezone": null,
+            "string": "Unknown"
+            },
+            "producers": [
+            {
+            "mal_id": 55,
+            "type": "anime",
+            "name": "TV Asahi",
+            "url": "https://myanimelist.net/anime/producer/55/TV_Asahi"
+            }
+            ],
+            "licensors": [
+            {
+            "mal_id": 1459,
+            "type": "anime",
+            "name": "Geneon Entertainment USA",
+            "url": "https://myanimelist.net/anime/producer/1459/Geneon_Entertainment_USA"
+            }
+            ],
+            "studios": [
+            {
+            "mal_id": 18,
+            "type": "anime",
+            "name": "Toei Animation",
+            "url": "https://myanimelist.net/anime/producer/18/Toei_Animation"
+            }
+            ],
+            "genres": [
+            {
+            "mal_id": 30,
+            "type": "anime",
+            "name": "Sports",
+            "url": "https://myanimelist.net/anime/genre/30/Sports"
+            }
+            ],
+            "explicit_genres": [],
+            "themes": [
+            {
+            "mal_id": 23,
+            "type": "anime",
+            "name": "School",
+            "url": "https://myanimelist.net/anime/genre/23/School"
+            },
+            {
+            "mal_id": 77,
+            "type": "anime",
+            "name": "Team Sports",
+            "url": "https://myanimelist.net/anime/genre/77/Team_Sports"
+            }
+            ],
+            "demographics": [
+            {
+            "mal_id": 27,
+            "type": "anime",
+            "name": "Shounen",
+            "url": "https://myanimelist.net/anime/genre/27/Shounen"
+            }
+            ]
+            },
+            {
+            "mal_id": 183,
+            "url": "https://myanimelist.net/anime/183/Whistle",
+            "images": {
+            "jpg": {
+            "image_url": "https://cdn.myanimelist.net/images/anime/8/17885.jpg",
+            "small_image_url": "https://cdn.myanimelist.net/images/anime/8/17885t.jpg",
+            "large_image_url": "https://cdn.myanimelist.net/images/anime/8/17885l.jpg"
+            },
+            "webp": {
+            "image_url": "https://cdn.myanimelist.net/images/anime/8/17885.webp",
+            "small_image_url": "https://cdn.myanimelist.net/images/anime/8/17885t.webp",
+            "large_image_url": "https://cdn.myanimelist.net/images/anime/8/17885l.webp"
+            }
+            },
+            "trailer": {
+            "youtube_id": null,
+            "url": null,
+            "embed_url": null,
+            "images": {
+            "image_url": null,
+            "small_image_url": null,
+            "medium_image_url": null,
+            "large_image_url": null,
+            "maximum_image_url": null
+            }
+            },
+            "approved": true,
+            "titles": [
+            {
+            "type": "Default",
+            "title": "Whistle!"
+            },
+            {
+            "type": "Japanese",
+            "title": "ホイッスル！"
+            }
+            ],
+            "title": "Whistle!",
+            "title_english": null,
+            "title_japanese": "ホイッスル！",
+            "title_synonyms": [],
+            "type": "TV",
+            "source": "Manga",
+            "episodes": 39,
+            "status": "Finished Airing",
+            "airing": false,
+            "aired": {
+            "from": "2002-05-06T00:00:00+00:00",
+            "to": "2003-02-03T00:00:00+00:00",
+            "prop": {
+            "from": {
+            "day": 6,
+            "month": 5,
+            "year": 2002
+            },
+            "to": {
+            "day": 3,
+            "month": 2,
+            "year": 2003
+            }
+            },
+            "string": "May 6, 2002 to Feb 3, 2003"
+            },
+            "duration": "24 min per ep",
+            "rating": "G - All Ages",
+            "score": 7.39,
+            "scored_by": 6701,
+            "rank": 2186,
+            "popularity": 5311,
+            "members": 14419,
+            "favorites": 88,
+            "synopsis": "Kazamatsuri Shou's dream has always been to become a professional soccer player, but he has one problem: he's not very good at the game. He was accepted to the prestigious Musashi no Mori Junior High, known for its top rate soccer team, but he was never able to rise beyond the rank of third stringer. After transferring to Sakura Jousui Junior High, he can finally play soccer. And, with the support of his new friends and teammates, his strong determination, and lots of hard work, his soccer skills are developing rapidly and setting Shou well on his way to achieving his dream.\n\n(Source: ANN)",
+            "background": null,
+            "season": "spring",
+            "year": 2002,
+            "broadcast": {
+            "day": null,
+            "time": null,
+            "timezone": null,
+            "string": "Unknown"
+            },
+            "producers": [
+            {
+            "mal_id": 82,
+            "type": "anime",
+            "name": "Marvelous Entertainment",
+            "url": "https://myanimelist.net/anime/producer/82/Marvelous_Entertainment"
+            }
+            ],
+            "licensors": [],
+            "studios": [
+            {
+            "mal_id": 126,
+            "type": "anime",
+            "name": "Studio Comet",
+            "url": "https://myanimelist.net/anime/producer/126/Studio_Comet"
+            }
+            ],
+            "genres": [
+            {
+            "mal_id": 30,
+            "type": "anime",
+            "name": "Sports",
+            "url": "https://myanimelist.net/anime/genre/30/Sports"
+            }
+            ],
+            "explicit_genres": [],
+            "themes": [
+            {
+            "mal_id": 23,
+            "type": "anime",
+            "name": "School",
+            "url": "https://myanimelist.net/anime/genre/23/School"
+            },
+            {
+            "mal_id": 77,
+            "type": "anime",
+            "name": "Team Sports",
+            "url": "https://myanimelist.net/anime/genre/77/Team_Sports"
+            }
+            ],
+            "demographics": [
+            {
+            "mal_id": 27,
+            "type": "anime",
+            "name": "Shounen",
+            "url": "https://myanimelist.net/anime/genre/27/Shounen"
+            }
+            ]
+            },
+            {
+            "mal_id": 234,
+            "url": "https://myanimelist.net/anime/234/Dan_Doh",
+            "images": {
+            "jpg": {
+            "image_url": "https://cdn.myanimelist.net/images/anime/3/15231.jpg",
+            "small_image_url": "https://cdn.myanimelist.net/images/anime/3/15231t.jpg",
+            "large_image_url": "https://cdn.myanimelist.net/images/anime/3/15231l.jpg"
+            },
+            "webp": {
+            "image_url": "https://cdn.myanimelist.net/images/anime/3/15231.webp",
+            "small_image_url": "https://cdn.myanimelist.net/images/anime/3/15231t.webp",
+            "large_image_url": "https://cdn.myanimelist.net/images/anime/3/15231l.webp"
+            }
+            },
+            "trailer": {
+            "youtube_id": null,
+            "url": null,
+            "embed_url": null,
+            "images": {
+            "image_url": null,
+            "small_image_url": null,
+            "medium_image_url": null,
+            "large_image_url": null,
+            "maximum_image_url": null
+            }
+            },
+            "approved": true,
+            "titles": [
+            {
+            "type": "Default",
+            "title": "Dan Doh!!"
+            },
+            {
+            "type": "Japanese",
+            "title": "ダンドー"
+            }
+            ],
+            "title": "Dan Doh!!",
+            "title_english": null,
+            "title_japanese": "ダンドー",
+            "title_synonyms": [],
+            "type": "TV",
+            "source": "Manga",
+            "episodes": 26,
+            "status": "Finished Airing",
+            "airing": false,
+            "aired": {
+            "from": "2004-04-03T00:00:00+00:00",
+            "to": "2004-09-25T00:00:00+00:00",
+            "prop": {
+            "from": {
+            "day": 3,
+            "month": 4,
+            "year": 2004
+            },
+            "to": {
+            "day": 25,
+            "month": 9,
+            "year": 2004
+            }
+            },
+            "string": "Apr 3, 2004 to Sep 25, 2004"
+            },
+            "duration": "24 min per ep",
+            "rating": "G - All Ages",
+            "score": 6.63,
+            "scored_by": 1677,
+            "rank": 5889,
+            "popularity": 8652,
+            "members": 4228,
+            "favorites": 3,
+            "synopsis": "Dandoh was playing a baseball game with friends Yuka and Kohei and hits a wild fly ball which crashes into the principal's potted plants. Rather than getting mad, the principal admires Dandoh's swing and introduces him to the world of golf. It's now an adventure in golf as Dandoh is under the watchful eye of a former pro-golfer. They enter a tournament together and play for a shot at the national championships.\n\n(Source: ANN)",
+            "background": null,
+            "season": "spring",
+            "year": 2004,
+            "broadcast": {
+            "day": null,
+            "time": null,
+            "timezone": null,
+            "string": "Unknown"
+            },
+            "producers": [
+            {
+            "mal_id": 16,
+            "type": "anime",
+            "name": "TV Tokyo",
+            "url": "https://myanimelist.net/anime/producer/16/TV_Tokyo"
+            },
+            {
+            "mal_id": 134,
+            "type": "anime",
+            "name": "HoriPro",
+            "url": "https://myanimelist.net/anime/producer/134/HoriPro"
+            }
+            ],
+            "licensors": [
+            {
+            "mal_id": 233,
+            "type": "anime",
+            "name": "Bandai Entertainment",
+            "url": "https://myanimelist.net/anime/producer/233/Bandai_Entertainment"
+            }
+            ],
+            "studios": [
+            {
+            "mal_id": 122,
+            "type": "anime",
+            "name": "Tokyo Kids",
+            "url": "https://myanimelist.net/anime/producer/122/Tokyo_Kids"
+            }
+            ],
+            "genres": [
+            {
+            "mal_id": 2,
+            "type": "anime",
+            "name": "Adventure",
+            "url": "https://myanimelist.net/anime/genre/2/Adventure"
+            },
+            {
+            "mal_id": 30,
+            "type": "anime",
+            "name": "Sports",
+            "url": "https://myanimelist.net/anime/genre/30/Sports"
+            }
+            ],
+            "explicit_genres": [],
+            "themes": [],
+            "demographics": [
+            {
+            "mal_id": 27,
+            "type": "anime",
+            "name": "Shounen",
+            "url": "https://myanimelist.net/anime/genre/27/Shounen"
+            }
+            ]
+            },
+            {
+            "mal_id": 263,
+            "url": "https://myanimelist.net/anime/263/Hajime_no_Ippo",
+            "images": {
+            "jpg": {
+            "image_url": "https://cdn.myanimelist.net/images/anime/4/86334.jpg",
+            "small_image_url": "https://cdn.myanimelist.net/images/anime/4/86334t.jpg",
+            "large_image_url": "https://cdn.myanimelist.net/images/anime/4/86334l.jpg"
+            },
+            "webp": {
+            "image_url": "https://cdn.myanimelist.net/images/anime/4/86334.webp",
+            "small_image_url": "https://cdn.myanimelist.net/images/anime/4/86334t.webp",
+            "large_image_url": "https://cdn.myanimelist.net/images/anime/4/86334l.webp"
+            }
+            },
+            "trailer": {
+            "youtube_id": null,
+            "url": null,
+            "embed_url": null,
+            "images": {
+            "image_url": null,
+            "small_image_url": null,
+            "medium_image_url": null,
+            "large_image_url": null,
+            "maximum_image_url": null
+            }
+            },
+            "approved": true,
+            "titles": [
+            {
+            "type": "Default",
+            "title": "Hajime no Ippo"
+            },
+            {
+            "type": "Synonym",
+            "title": "The First Step"
+            },
+            {
+            "type": "Synonym",
+            "title": "Hajime no Ippo: The Fighting"
+            },
+            {
+            "type": "Japanese",
+            "title": "はじめの一歩 THE FIGHTING!"
+            },
+            {
+            "type": "English",
+            "title": "Fighting Spirit"
+            },
+            {
+            "type": "Spanish",
+            "title": "Hajime no Ippo: Espíritu de Lucha"
+            },
+            {
+            "type": "French",
+            "title": "IPPO Le Challenger"
+            }
+            ],
+            "title": "Hajime no Ippo",
+            "title_english": "Fighting Spirit",
+            "title_japanese": "はじめの一歩 THE FIGHTING!",
+            "title_synonyms": [
+            "The First Step",
+            "Hajime no Ippo: The Fighting"
+            ],
+            "type": "TV",
+            "source": "Manga",
+            "episodes": 75,
+            "status": "Finished Airing",
+            "airing": false,
+            "aired": {
+            "from": "2000-10-04T00:00:00+00:00",
+            "to": "2002-03-27T00:00:00+00:00",
+            "prop": {
+            "from": {
+            "day": 4,
+            "month": 10,
+            "year": 2000
+            },
+            "to": {
+            "day": 27,
+            "month": 3,
+            "year": 2002
+            }
+            },
+            "string": "Oct 4, 2000 to Mar 27, 2002"
+            },
+            "duration": "23 min per ep",
+            "rating": "PG-13 - Teens 13 or older",
+            "score": 8.76,
+            "scored_by": 275872,
+            "rank": 44,
+            "popularity": 370,
+            "members": 562875,
+            "favorites": 20848,
+            "synopsis": "In his father's absence, teenager Ippo Makunouchi works hard to help his mother run her fishing boat rental business. Ippo's timid nature, his lack of sleep, and the sea smell make him an easy target for relentless bullies who leave him bruised and beaten on a daily basis. Mamoru Takamura, an up-and-coming boxer, rescues Ippo from a violent after-school incident and takes him back to the Kamogawa Boxing Gym for recovery. Takamura and his fellow boxers, Masaru Aoki and Tatsuya Kimura, are stunned by Ippo's powerful punches—a result of strong muscles developed through years serving his physically taxing family business. \n\nFollowing brief training under Takamura, Ippo impresses the other boxers in a practice match against prodigy Ichirou Miyata. He gains a rival in Miyata and a coach in Genji Kamogawa, the gym owner and a former boxer himself. As Ippo takes the first steps in his official boxing career, he faces off against a series of challenging opponents, each more powerful than the last. Victory, loss, and a cycle of dedicated training await Ippo on his journey to achieve greatness. With his tough body and unstoppable fighting spirit, the kind young man seeks to take on the world.\n\n[Written by MAL Rewrite]",
+            "background": null,
+            "season": "fall",
+            "year": 2000,
+            "broadcast": {
+            "day": "Tuesdays",
+            "time": "00:50",
+            "timezone": "Asia/Tokyo",
+            "string": "Tuesdays at 00:50 (JST)"
+            },
+            "producers": [
+            {
+            "mal_id": 29,
+            "type": "anime",
+            "name": "VAP",
+            "url": "https://myanimelist.net/anime/producer/29/VAP"
+            }
+            ],
+            "licensors": [
+            {
+            "mal_id": 467,
+            "type": "anime",
+            "name": "Discotek Media",
+            "url": "https://myanimelist.net/anime/producer/467/Discotek_Media"
+            },
+            {
+            "mal_id": 1459,
+            "type": "anime",
+            "name": "Geneon Entertainment USA",
+            "url": "https://myanimelist.net/anime/producer/1459/Geneon_Entertainment_USA"
+            }
+            ],
+            "studios": [
+            {
+            "mal_id": 11,
+            "type": "anime",
+            "name": "Madhouse",
+            "url": "https://myanimelist.net/anime/producer/11/Madhouse"
+            }
+            ],
+            "genres": [
+            {
+            "mal_id": 30,
+            "type": "anime",
+            "name": "Sports",
+            "url": "https://myanimelist.net/anime/genre/30/Sports"
+            }
+            ],
+            "explicit_genres": [],
+            "themes": [
+            {
+            "mal_id": 54,
+            "type": "anime",
+            "name": "Combat Sports",
+            "url": "https://myanimelist.net/anime/genre/54/Combat_Sports"
+            }
+            ],
+            "demographics": [
+            {
+            "mal_id": 27,
+            "type": "anime",
+            "name": "Shounen",
+            "url": "https://myanimelist.net/anime/genre/27/Shounen"
+            }
+            ]
+            },
+            {
+            "mal_id": 264,
+            "url": "https://myanimelist.net/anime/264/Hajime_no_Ippo__Champion_Road",
+            "images": {
+            "jpg": {
+            "image_url": "https://cdn.myanimelist.net/images/anime/9/2361.jpg",
+            "small_image_url": "https://cdn.myanimelist.net/images/anime/9/2361t.jpg",
+            "large_image_url": "https://cdn.myanimelist.net/images/anime/9/2361l.jpg"
+            },
+            "webp": {
+            "image_url": "https://cdn.myanimelist.net/images/anime/9/2361.webp",
+            "small_image_url": "https://cdn.myanimelist.net/images/anime/9/2361t.webp",
+            "large_image_url": "https://cdn.myanimelist.net/images/anime/9/2361l.webp"
+            }
+            },
+            "trailer": {
+            "youtube_id": null,
+            "url": null,
+            "embed_url": null,
+            "images": {
+            "image_url": null,
+            "small_image_url": null,
+            "medium_image_url": null,
+            "large_image_url": null,
+            "maximum_image_url": null
+            }
+            },
+            "approved": true,
+            "titles": [
+            {
+            "type": "Default",
+            "title": "Hajime no Ippo: Champion Road"
+            },
+            {
+            "type": "Synonym",
+            "title": "The First Step - Champion Road"
+            },
+            {
+            "type": "Japanese",
+            "title": "はじめの一歩 -Champion Road-"
+            },
+            {
+            "type": "English",
+            "title": "Fighting Spirit: Champion Road"
+            }
+            ],
+            "title": "Hajime no Ippo: Champion Road",
+            "title_english": "Fighting Spirit: Champion Road",
+            "title_japanese": "はじめの一歩 -Champion Road-",
+            "title_synonyms": [
+            "The First Step - Champion Road"
+            ],
+            "type": "Special",
+            "source": "Manga",
+            "episodes": 1,
+            "status": "Finished Airing",
+            "airing": false,
+            "aired": {
+            "from": "2003-04-18T00:00:00+00:00",
+            "to": null,
+            "prop": {
+            "from": {
+            "day": 18,
+            "month": 4,
+            "year": 2003
+            },
+            "to": {
+            "day": null,
+            "month": null,
+            "year": null
+            }
+            },
+            "string": "Apr 18, 2003"
+            },
+            "duration": "1 hr 30 min",
+            "rating": "PG-13 - Teens 13 or older",
+            "score": 8.26,
+            "scored_by": 80423,
+            "rank": 285,
+            "popularity": 1613,
+            "members": 132187,
+            "favorites": 225,
+            "synopsis": "The challenger has become the champion as Ippo Makunouchi now wears the featherweight championship belt of Japan. \nSome time has passed since Ippo's victory, and he has found his friends and coach as supportive as ever; his crush, Kumi Mashiba, seems to enjoy spending time with him as well. Things are looking bright for the new champion, but just as he once set his sights on becoming the best, his first challenger poses an intimidating threat. \n\nKazuki Sanada works as a doctor at the same hospital as Kumi and fights strategically. Known for integrating his knowledge of the human body into his fights, Sanada is a fearsome contender—however, more unnerving than his physical ability, he has garnered the support of the nurses. Despite being the champion, Ippo feels the pressure as he must face the daunting challenge, retain his belt, and win over the girl he loves.\n\n[Written by MAL Rewrite]",
+            "background": null,
+            "season": null,
+            "year": null,
+            "broadcast": {
+            "day": null,
+            "time": null,
+            "timezone": null,
+            "string": null
+            },
+            "producers": [],
+            "licensors": [
+            {
+            "mal_id": 467,
+            "type": "anime",
+            "name": "Discotek Media",
+            "url": "https://myanimelist.net/anime/producer/467/Discotek_Media"
+            },
+            {
+            "mal_id": 1459,
+            "type": "anime",
+            "name": "Geneon Entertainment USA",
+            "url": "https://myanimelist.net/anime/producer/1459/Geneon_Entertainment_USA"
+            }
+            ],
+            "studios": [
+            {
+            "mal_id": 11,
+            "type": "anime",
+            "name": "Madhouse",
+            "url": "https://myanimelist.net/anime/producer/11/Madhouse"
+            }
+            ],
+            "genres": [
+            {
+            "mal_id": 30,
+            "type": "anime",
+            "name": "Sports",
+            "url": "https://myanimelist.net/anime/genre/30/Sports"
+            }
+            ],
+            "explicit_genres": [],
+            "themes": [
+            {
+            "mal_id": 54,
+            "type": "anime",
+            "name": "Combat Sports",
+            "url": "https://myanimelist.net/anime/genre/54/Combat_Sports"
+            }
+            ],
+            "demographics": [
+            {
+            "mal_id": 27,
+            "type": "anime",
+            "name": "Shounen",
+            "url": "https://myanimelist.net/anime/genre/27/Shounen"
+            }
+            ]
+            },
+            {
+            "mal_id": 265,
+            "url": "https://myanimelist.net/anime/265/Hajime_no_Ippo__Mashiba_vs_Kimura",
+            "images": {
+            "jpg": {
+            "image_url": "https://cdn.myanimelist.net/images/anime/4/64737.jpg",
+            "small_image_url": "https://cdn.myanimelist.net/images/anime/4/64737t.jpg",
+            "large_image_url": "https://cdn.myanimelist.net/images/anime/4/64737l.jpg"
+            },
+            "webp": {
+            "image_url": "https://cdn.myanimelist.net/images/anime/4/64737.webp",
+            "small_image_url": "https://cdn.myanimelist.net/images/anime/4/64737t.webp",
+            "large_image_url": "https://cdn.myanimelist.net/images/anime/4/64737l.webp"
+            }
+            },
+            "trailer": {
+            "youtube_id": null,
+            "url": null,
+            "embed_url": null,
+            "images": {
+            "image_url": null,
+            "small_image_url": null,
+            "medium_image_url": null,
+            "large_image_url": null,
+            "maximum_image_url": null
+            }
+            },
+            "approved": true,
+            "titles": [
+            {
+            "type": "Default",
+            "title": "Hajime no Ippo: Mashiba vs. Kimura"
+            },
+            {
+            "type": "Synonym",
+            "title": "Fighting Spirit: Mashiba vs. Kimura"
+            },
+            {
+            "type": "Japanese",
+            "title": "はじめの一歩 間柴vs木村 死刑執行"
+            }
+            ],
+            "title": "Hajime no Ippo: Mashiba vs. Kimura",
+            "title_english": null,
+            "title_japanese": "はじめの一歩 間柴vs木村 死刑執行",
+            "title_synonyms": [
+            "Fighting Spirit: Mashiba vs. Kimura"
+            ],
+            "type": "OVA",
+            "source": "Manga",
+            "episodes": 1,
+            "status": "Finished Airing",
+            "airing": false,
+            "aired": {
+            "from": "2003-09-05T00:00:00+00:00",
+            "to": null,
+            "prop": {
+            "from": {
+            "day": 5,
+            "month": 9,
+            "year": 2003
+            },
+            "to": {
+            "day": null,
+            "month": null,
+            "year": null
+            }
+            },
+            "string": "Sep 5, 2003"
+            },
+            "duration": "1 hr 1 min",
+            "rating": "PG-13 - Teens 13 or older",
+            "score": 8.23,
+            "scored_by": 65387,
+            "rank": 307,
+            "popularity": 1910,
+            "members": 105878,
+            "favorites": 182,
+            "synopsis": "Tatsuya Kimura is beginning to feel left behind. With his friends Ippo Makunouchi and Mamoru Takamura holding the championship belt in their respective weight classes, Kimura's inability to become Japan's Junior Lightweight boxing champion eats away at him. Scheduled to fight with the current champion Ryo Mashiba, Kimura begins to train with Ippo's rival Ichirou Miyata, who previously suffered a crushing defeat from Mashiba's signature \"Hitman\" style of boxing.\n\nBut Mashiba has his own desire to hold onto the belt, hoping to soon shoot for the World title and secure financial stability for his sister Kumi. Will Kimura's overwhelming drive to prove his strength as a boxer overcome Mashiba's desperate wish to provide a better life for Kumi?\n\n[Written by MAL Rewrite]",
+            "background": null,
+            "season": null,
+            "year": null,
+            "broadcast": {
+            "day": null,
+            "time": null,
+            "timezone": null,
+            "string": null
+            },
+            "producers": [],
+            "licensors": [
+            {
+            "mal_id": 467,
+            "type": "anime",
+            "name": "Discotek Media",
+            "url": "https://myanimelist.net/anime/producer/467/Discotek_Media"
+            }
+            ],
+            "studios": [
+            {
+            "mal_id": 11,
+            "type": "anime",
+            "name": "Madhouse",
+            "url": "https://myanimelist.net/anime/producer/11/Madhouse"
+            }
+            ],
+            "genres": [
+            {
+            "mal_id": 30,
+            "type": "anime",
+            "name": "Sports",
+            "url": "https://myanimelist.net/anime/genre/30/Sports"
+            }
+            ],
+            "explicit_genres": [],
+            "themes": [
+            {
+            "mal_id": 54,
+            "type": "anime",
+            "name": "Combat Sports",
+            "url": "https://myanimelist.net/anime/genre/54/Combat_Sports"
+            }
+            ],
+            "demographics": [
+            {
+            "mal_id": 27,
+            "type": "anime",
+            "name": "Shounen",
+            "url": "https://myanimelist.net/anime/genre/27/Shounen"
+            }
+            ]
+            },
+            {
+            "mal_id": 287,
+            "url": "https://myanimelist.net/anime/287/Grappler_Baki_TV",
+            "images": {
+            "jpg": {
+            "image_url": "https://cdn.myanimelist.net/images/anime/1782/128917.jpg",
+            "small_image_url": "https://cdn.myanimelist.net/images/anime/1782/128917t.jpg",
+            "large_image_url": "https://cdn.myanimelist.net/images/anime/1782/128917l.jpg"
+            },
+            "webp": {
+            "image_url": "https://cdn.myanimelist.net/images/anime/1782/128917.webp",
+            "small_image_url": "https://cdn.myanimelist.net/images/anime/1782/128917t.webp",
+            "large_image_url": "https://cdn.myanimelist.net/images/anime/1782/128917l.webp"
+            }
+            },
+            "trailer": {
+            "youtube_id": "Wnj13t7zi-I",
+            "url": "https://www.youtube.com/watch?v=Wnj13t7zi-I",
+            "embed_url": "https://www.youtube.com/embed/Wnj13t7zi-I?enablejsapi=1&wmode=opaque&autoplay=1",
+            "images": {
+            "image_url": "https://img.youtube.com/vi/Wnj13t7zi-I/default.jpg",
+            "small_image_url": "https://img.youtube.com/vi/Wnj13t7zi-I/sddefault.jpg",
+            "medium_image_url": "https://img.youtube.com/vi/Wnj13t7zi-I/mqdefault.jpg",
+            "large_image_url": "https://img.youtube.com/vi/Wnj13t7zi-I/hqdefault.jpg",
+            "maximum_image_url": "https://img.youtube.com/vi/Wnj13t7zi-I/maxresdefault.jpg"
+            }
+            },
+            "approved": true,
+            "titles": [
+            {
+            "type": "Default",
+            "title": "Grappler Baki (TV)"
+            },
+            {
+            "type": "Japanese",
+            "title": "グラップラー刃牙"
+            },
+            {
+            "type": "English",
+            "title": "Baki the Grappler"
+            },
+            {
+            "type": "French",
+            "title": "Baki the Grappler"
+            }
+            ],
+            "title": "Grappler Baki (TV)",
+            "title_english": "Baki the Grappler",
+            "title_japanese": "グラップラー刃牙",
+            "title_synonyms": [],
+            "type": "TV",
+            "source": "Manga",
+            "episodes": 24,
+            "status": "Finished Airing",
+            "airing": false,
+            "aired": {
+            "from": "2001-01-09T00:00:00+00:00",
+            "to": "2001-06-26T00:00:00+00:00",
+            "prop": {
+            "from": {
+            "day": 9,
+            "month": 1,
+            "year": 2001
+            },
+            "to": {
+            "day": 26,
+            "month": 6,
+            "year": 2001
+            }
+            },
+            "string": "Jan 9, 2001 to Jun 26, 2001"
+            },
+            "duration": "25 min per ep",
+            "rating": "PG-13 - Teens 13 or older",
+            "score": 7.46,
+            "scored_by": 71038,
+            "rank": 1928,
+            "popularity": 1564,
+            "members": 137799,
+            "favorites": 823,
+            "synopsis": "Ever since he was born, Baki Hanma has always known nothing but fighting—strengthening every single muscle and learning different techniques from various martial arts under the supervision of his mother, Emi Akezawa. He trains in order to prepare himself to face and eventually surpass his own father, Yuujirou Hanma, a man feared by the masses as the \"Ogre\" and deemed the strongest being in the world.\n\nHowever, when Baki realizes his mother's techniques are no longer enough, he sets out to become stronger in his own way. Seeking out powerful opponents and forming unbreakable bonds with them, he continues to grow both body and his soul, as the clock continues to tick closer toward the inevitable showdown against his father...\n\n[Written by MAL Rewrite]",
+            "background": null,
+            "season": "winter",
+            "year": 2001,
+            "broadcast": {
+            "day": null,
+            "time": null,
+            "timezone": null,
+            "string": "Unknown"
+            },
+            "producers": [
+            {
+            "mal_id": 1307,
+            "type": "anime",
+            "name": "Free-Will",
+            "url": "https://myanimelist.net/anime/producer/1307/Free-Will"
+            }
+            ],
+            "licensors": [
+            {
+            "mal_id": 102,
+            "type": "anime",
+            "name": "Funimation",
+            "url": "https://myanimelist.net/anime/producer/102/Funimation"
+            }
+            ],
+            "studios": [
+            {
+            "mal_id": 86,
+            "type": "anime",
+            "name": "Group TAC",
+            "url": "https://myanimelist.net/anime/producer/86/Group_TAC"
+            }
+            ],
+            "genres": [
+            {
+            "mal_id": 30,
+            "type": "anime",
+            "name": "Sports",
+            "url": "https://myanimelist.net/anime/genre/30/Sports"
+            }
+            ],
+            "explicit_genres": [],
+            "themes": [
+            {
+            "mal_id": 54,
+            "type": "anime",
+            "name": "Combat Sports",
+            "url": "https://myanimelist.net/anime/genre/54/Combat_Sports"
+            },
+            {
+            "mal_id": 58,
+            "type": "anime",
+            "name": "Gore",
+            "url": "https://myanimelist.net/anime/genre/58/Gore"
+            }
+            ],
+            "demographics": [
+            {
+            "mal_id": 27,
+            "type": "anime",
+            "name": "Shounen",
+            "url": "https://myanimelist.net/anime/genre/27/Shounen"
+            }
+            ]
+            },
+            {
+            "mal_id": 288,
+            "url": "https://myanimelist.net/anime/288/Bakuten_Shoot_Beyblade",
+            "images": {
+            "jpg": {
+            "image_url": "https://cdn.myanimelist.net/images/anime/1429/127983.jpg",
+            "small_image_url": "https://cdn.myanimelist.net/images/anime/1429/127983t.jpg",
+            "large_image_url": "https://cdn.myanimelist.net/images/anime/1429/127983l.jpg"
+            },
+            "webp": {
+            "image_url": "https://cdn.myanimelist.net/images/anime/1429/127983.webp",
+            "small_image_url": "https://cdn.myanimelist.net/images/anime/1429/127983t.webp",
+            "large_image_url": "https://cdn.myanimelist.net/images/anime/1429/127983l.webp"
+            }
+            },
+            "trailer": {
+            "youtube_id": null,
+            "url": null,
+            "embed_url": null,
+            "images": {
+            "image_url": null,
+            "small_image_url": null,
+            "medium_image_url": null,
+            "large_image_url": null,
+            "maximum_image_url": null
+            }
+            },
+            "approved": true,
+            "titles": [
+            {
+            "type": "Default",
+            "title": "Bakuten Shoot Beyblade"
+            },
+            {
+            "type": "Japanese",
+            "title": "爆転シュート　ベイブレード"
+            },
+            {
+            "type": "English",
+            "title": "Beyblade"
+            },
+            {
+            "type": "German",
+            "title": "Beyblade"
+            }
+            ],
+            "title": "Bakuten Shoot Beyblade",
+            "title_english": "Beyblade",
+            "title_japanese": "爆転シュート　ベイブレード",
+            "title_synonyms": [],
+            "type": "TV",
+            "source": "Manga",
+            "episodes": 51,
+            "status": "Finished Airing",
+            "airing": false,
+            "aired": {
+            "from": "2001-01-08T00:00:00+00:00",
+            "to": "2001-12-24T00:00:00+00:00",
+            "prop": {
+            "from": {
+            "day": 8,
+            "month": 1,
+            "year": 2001
+            },
+            "to": {
+            "day": 24,
+            "month": 12,
+            "year": 2001
+            }
+            },
+            "string": "Jan 8, 2001 to Dec 24, 2001"
+            },
+            "duration": "23 min per ep",
+            "rating": "PG - Children",
+            "score": 6.77,
+            "scored_by": 70573,
+            "rank": 5137,
+            "popularity": 1852,
+            "members": 110843,
+            "favorites": 389,
+            "synopsis": "Thirteen-year-old Tyson Granger (Takao Kinomiya), along with his fellow teammates, Kai Hiwatari, Max Tate (Max Mizuhura), and Ray Kon (Rei Kon), strive to become the greatest Beybladers in the world. With the technical help of the team's resident genius, Kenny (Kyouju), and with the powerful strength of their BitBeasts, the Bladebreakers armed with their tops (AKA: Blades) attempt to reach their goal.\n\n(Source: ANN)",
+            "background": null,
+            "season": "winter",
+            "year": 2001,
+            "broadcast": {
+            "day": "Mondays",
+            "time": "18:00",
+            "timezone": "Asia/Tokyo",
+            "string": "Mondays at 18:00 (JST)"
+            },
+            "producers": [
+            {
+            "mal_id": 16,
+            "type": "anime",
+            "name": "TV Tokyo",
+            "url": "https://myanimelist.net/anime/producer/16/TV_Tokyo"
+            },
+            {
+            "mal_id": 127,
+            "type": "anime",
+            "name": "Yomiko Advertising",
+            "url": "https://myanimelist.net/anime/producer/127/Yomiko_Advertising"
+            },
+            {
+            "mal_id": 164,
+            "type": "anime",
+            "name": "d-rights",
+            "url": "https://myanimelist.net/anime/producer/164/d-rights"
+            }
+            ],
+            "licensors": [
+            {
+            "mal_id": 215,
+            "type": "anime",
+            "name": "Nelvana",
+            "url": "https://myanimelist.net/anime/producer/215/Nelvana"
+            },
+            {
+            "mal_id": 467,
+            "type": "anime",
+            "name": "Discotek Media",
+            "url": "https://myanimelist.net/anime/producer/467/Discotek_Media"
+            }
+            ],
+            "studios": [
+            {
+            "mal_id": 11,
+            "type": "anime",
+            "name": "Madhouse",
+            "url": "https://myanimelist.net/anime/producer/11/Madhouse"
+            }
+            ],
+            "genres": [
+            {
+            "mal_id": 2,
+            "type": "anime",
+            "name": "Adventure",
+            "url": "https://myanimelist.net/anime/genre/2/Adventure"
+            },
+            {
+            "mal_id": 4,
+            "type": "anime",
+            "name": "Comedy",
+            "url": "https://myanimelist.net/anime/genre/4/Comedy"
+            },
+            {
+            "mal_id": 30,
+            "type": "anime",
+            "name": "Sports",
+            "url": "https://myanimelist.net/anime/genre/30/Sports"
+            }
+            ],
+            "explicit_genres": [],
+            "themes": [],
+            "demographics": [
+            {
+            "mal_id": 15,
+            "type": "anime",
+            "name": "Kids",
+            "url": "https://myanimelist.net/anime/genre/15/Kids"
+            }
+            ]
+            },
+            {
+            "mal_id": 292,
+            "url": "https://myanimelist.net/anime/292/Dear_Boys",
+            "images": {
+            "jpg": {
+            "image_url": "https://cdn.myanimelist.net/images/anime/1141/109328.jpg",
+            "small_image_url": "https://cdn.myanimelist.net/images/anime/1141/109328t.jpg",
+            "large_image_url": "https://cdn.myanimelist.net/images/anime/1141/109328l.jpg"
+            },
+            "webp": {
+            "image_url": "https://cdn.myanimelist.net/images/anime/1141/109328.webp",
+            "small_image_url": "https://cdn.myanimelist.net/images/anime/1141/109328t.webp",
+            "large_image_url": "https://cdn.myanimelist.net/images/anime/1141/109328l.webp"
+            }
+            },
+            "trailer": {
+            "youtube_id": null,
+            "url": null,
+            "embed_url": null,
+            "images": {
+            "image_url": null,
+            "small_image_url": null,
+            "medium_image_url": null,
+            "large_image_url": null,
+            "maximum_image_url": null
+            }
+            },
+            "approved": true,
+            "titles": [
+            {
+            "type": "Default",
+            "title": "Dear Boys"
+            },
+            {
+            "type": "Japanese",
+            "title": "ディア・ボーイズ"
+            },
+            {
+            "type": "English",
+            "title": "Hoop Days"
+            },
+            {
+            "type": "French",
+            "title": "Hoop Days"
+            }
+            ],
+            "title": "Dear Boys",
+            "title_english": "Hoop Days",
+            "title_japanese": "ディア・ボーイズ",
+            "title_synonyms": [],
+            "type": "TV",
+            "source": "Manga",
+            "episodes": 26,
+            "status": "Finished Airing",
+            "airing": false,
+            "aired": {
+            "from": "2003-04-07T00:00:00+00:00",
+            "to": "2003-09-29T00:00:00+00:00",
+            "prop": {
+            "from": {
+            "day": 7,
+            "month": 4,
+            "year": 2003
+            },
+            "to": {
+            "day": 29,
+            "month": 9,
+            "year": 2003
+            }
+            },
+            "string": "Apr 7, 2003 to Sep 29, 2003"
+            },
+            "duration": "24 min per ep",
+            "rating": "PG-13 - Teens 13 or older",
+            "score": 6.78,
+            "scored_by": 10070,
+            "rank": 5083,
+            "popularity": 4495,
+            "members": 21795,
+            "favorites": 46,
+            "synopsis": "Aikawa Kazuhiko was the captain of Tendoji high school prestigious basketball team. He moves into a new town to attend Mizuho high school and joins its basketball team. However, Mizuho high's basketball team is far from being prestigious, in fact, it's now defunct. Nevertheless to say, Kazuhiko's persistence, passion and basketball skills inspired other team members of the dysfunctional basketball team to gear up and start practicing again.\n\nThe goal is to play in the national tournaments where all young basketball players meet their opponents to compete with them. The tale of youth of the five protagonists: Fujiwara Takumi, Ishii Tsutomu, Dobashi Kenji, Miura Ranmaru and Aikawa Kazuhiko have just began along with the live of Mizuho high school basketball team.\n\n(Source: AnimeNfo)",
+            "background": null,
+            "season": "spring",
+            "year": 2003,
+            "broadcast": {
+            "day": "Mondays",
+            "time": "01:00",
+            "timezone": "Asia/Tokyo",
+            "string": "Mondays at 01:00 (JST)"
+            },
+            "producers": [
+            {
+            "mal_id": 67,
+            "type": "anime",
+            "name": "OB Planning",
+            "url": "https://myanimelist.net/anime/producer/67/OB_Planning"
+            }
+            ],
+            "licensors": [
+            {
+            "mal_id": 233,
+            "type": "anime",
+            "name": "Bandai Entertainment",
+            "url": "https://myanimelist.net/anime/producer/233/Bandai_Entertainment"
+            }
+            ],
+            "studios": [
+            {
+            "mal_id": 179,
+            "type": "anime",
+            "name": "A.C.G.T.",
+            "url": "https://myanimelist.net/anime/producer/179/ACGT"
+            }
+            ],
+            "genres": [
+            {
+            "mal_id": 8,
+            "type": "anime",
+            "name": "Drama",
+            "url": "https://myanimelist.net/anime/genre/8/Drama"
+            },
+            {
+            "mal_id": 30,
+            "type": "anime",
+            "name": "Sports",
+            "url": "https://myanimelist.net/anime/genre/30/Sports"
+            }
+            ],
+            "explicit_genres": [],
+            "themes": [
+            {
+            "mal_id": 77,
+            "type": "anime",
+            "name": "Team Sports",
+            "url": "https://myanimelist.net/anime/genre/77/Team_Sports"
+            }
+            ],
+            "demographics": [
+            {
+            "mal_id": 27,
+            "type": "anime",
+            "name": "Shounen",
+            "url": "https://myanimelist.net/anime/genre/27/Shounen"
+            }
+            ]
+            },
+            {
+            "mal_id": 311,
+            "url": "https://myanimelist.net/anime/311/Ace_wo_Nerae",
+            "images": {
+            "jpg": {
+            "image_url": "https://cdn.myanimelist.net/images/anime/1414/91264.jpg",
+            "small_image_url": "https://cdn.myanimelist.net/images/anime/1414/91264t.jpg",
+            "large_image_url": "https://cdn.myanimelist.net/images/anime/1414/91264l.jpg"
+            },
+            "webp": {
+            "image_url": "https://cdn.myanimelist.net/images/anime/1414/91264.webp",
+            "small_image_url": "https://cdn.myanimelist.net/images/anime/1414/91264t.webp",
+            "large_image_url": "https://cdn.myanimelist.net/images/anime/1414/91264l.webp"
+            }
+            },
+            "trailer": {
+            "youtube_id": null,
+            "url": null,
+            "embed_url": null,
+            "images": {
+            "image_url": null,
+            "small_image_url": null,
+            "medium_image_url": null,
+            "large_image_url": null,
+            "maximum_image_url": null
+            }
+            },
+            "approved": true,
+            "titles": [
+            {
+            "type": "Default",
+            "title": "Ace wo Nerae!"
+            },
+            {
+            "type": "Synonym",
+            "title": "Ace o Nerae"
+            },
+            {
+            "type": "Synonym",
+            "title": "Aim for the Ace!"
+            },
+            {
+            "type": "Japanese",
+            "title": "エースをねらえ!"
+            },
+            {
+            "type": "French",
+            "title": "Jeu, Set et Match!"
+            }
+            ],
+            "title": "Ace wo Nerae!",
+            "title_english": null,
+            "title_japanese": "エースをねらえ!",
+            "title_synonyms": [
+            "Ace o Nerae",
+            "Aim for the Ace!"
+            ],
+            "type": "TV",
+            "source": "Manga",
+            "episodes": 26,
+            "status": "Finished Airing",
+            "airing": false,
+            "aired": {
+            "from": "1973-10-05T00:00:00+00:00",
+            "to": "1974-03-29T00:00:00+00:00",
+            "prop": {
+            "from": {
+            "day": 5,
+            "month": 10,
+            "year": 1973
+            },
+            "to": {
+            "day": 29,
+            "month": 3,
+            "year": 1974
+            }
+            },
+            "string": "Oct 5, 1973 to Mar 29, 1974"
+            },
+            "duration": "24 min per ep",
+            "rating": "PG-13 - Teens 13 or older",
+            "score": 7.13,
+            "scored_by": 3411,
+            "rank": 3506,
+            "popularity": 5533,
+            "members": 13057,
+            "favorites": 93,
+            "synopsis": "On her first day at Nishi High School, 15-year-old Hiromi Oka is inspired by top player Reika \"Ochoufujin\" Ryuuzaki to take up tennis. Shortly after joining the school's tennis club, she encounters Jin Munakata, the club's new coach. Munakata puts everyone under rigorous training that even puts Ochoufujin to shame. Despite the hardships, Hiromi's determination prompts the coach to select her as part of the club's main players. Because of this, Hiromi must endure the peer pressure from her seniors to become an ace tennis player.\n\n(Source: ANN)",
+            "background": null,
+            "season": "fall",
+            "year": 1973,
+            "broadcast": {
+            "day": null,
+            "time": null,
+            "timezone": null,
+            "string": "Unknown"
+            },
+            "producers": [
+            {
+            "mal_id": 143,
+            "type": "anime",
+            "name": "Mainichi Broadcasting System",
+            "url": "https://myanimelist.net/anime/producer/143/Mainichi_Broadcasting_System"
+            }
+            ],
+            "licensors": [
+            {
+            "mal_id": 467,
+            "type": "anime",
+            "name": "Discotek Media",
+            "url": "https://myanimelist.net/anime/producer/467/Discotek_Media"
+            }
+            ],
+            "studios": [
+            {
+            "mal_id": 65,
+            "type": "anime",
+            "name": "Tokyo Movie Shinsha",
+            "url": "https://myanimelist.net/anime/producer/65/Tokyo_Movie_Shinsha"
+            }
+            ],
+            "genres": [
+            {
+            "mal_id": 8,
+            "type": "anime",
+            "name": "Drama",
+            "url": "https://myanimelist.net/anime/genre/8/Drama"
+            },
+            {
+            "mal_id": 22,
+            "type": "anime",
+            "name": "Romance",
+            "url": "https://myanimelist.net/anime/genre/22/Romance"
+            },
+            {
+            "mal_id": 30,
+            "type": "anime",
+            "name": "Sports",
+            "url": "https://myanimelist.net/anime/genre/30/Sports"
+            }
+            ],
+            "explicit_genres": [],
+            "themes": [
+            {
+            "mal_id": 23,
+            "type": "anime",
+            "name": "School",
+            "url": "https://myanimelist.net/anime/genre/23/School"
+            }
+            ],
+            "demographics": [
+            {
+            "mal_id": 25,
+            "type": "anime",
+            "name": "Shoujo",
+            "url": "https://myanimelist.net/anime/genre/25/Shoujo"
+            }
+            ]
+            },
+            {
+            "mal_id": 312,
+            "url": "https://myanimelist.net/anime/312/Ace_wo_Nerae_Final_Stage",
+            "images": {
+            "jpg": {
+            "image_url": "https://cdn.myanimelist.net/images/anime/6/71784.jpg",
+            "small_image_url": "https://cdn.myanimelist.net/images/anime/6/71784t.jpg",
+            "large_image_url": "https://cdn.myanimelist.net/images/anime/6/71784l.jpg"
+            },
+            "webp": {
+            "image_url": "https://cdn.myanimelist.net/images/anime/6/71784.webp",
+            "small_image_url": "https://cdn.myanimelist.net/images/anime/6/71784t.webp",
+            "large_image_url": "https://cdn.myanimelist.net/images/anime/6/71784l.webp"
+            }
+            },
+            "trailer": {
+            "youtube_id": null,
+            "url": null,
+            "embed_url": null,
+            "images": {
+            "image_url": null,
+            "small_image_url": null,
+            "medium_image_url": null,
+            "large_image_url": null,
+            "maximum_image_url": null
+            }
+            },
+            "approved": true,
+            "titles": [
+            {
+            "type": "Default",
+            "title": "Ace wo Nerae! Final Stage"
+            },
+            {
+            "type": "Synonym",
+            "title": "Ace O Nerae! OVA 2"
+            },
+            {
+            "type": "Synonym",
+            "title": "Aim for the Ace: Final Stage"
+            },
+            {
+            "type": "Japanese",
+            "title": "「エースをねらえ！」 —ファイナル・ステージ—"
+            }
+            ],
+            "title": "Ace wo Nerae! Final Stage",
+            "title_english": null,
+            "title_japanese": "「エースをねらえ！」 —ファイナル・ステージ—",
+            "title_synonyms": [
+            "Ace O Nerae! OVA 2",
+            "Aim for the Ace: Final Stage"
+            ],
+            "type": "OVA",
+            "source": "Manga",
+            "episodes": 12,
+            "status": "Finished Airing",
+            "airing": false,
+            "aired": {
+            "from": "1989-10-25T00:00:00+00:00",
+            "to": "1990-04-25T00:00:00+00:00",
+            "prop": {
+            "from": {
+            "day": 25,
+            "month": 10,
+            "year": 1989
+            },
+            "to": {
+            "day": 25,
+            "month": 4,
+            "year": 1990
+            }
+            },
+            "string": "Oct 25, 1989 to Apr 25, 1990"
+            },
+            "duration": "24 min per ep",
+            "rating": "PG-13 - Teens 13 or older",
+            "score": 6.89,
+            "scored_by": 833,
+            "rank": 4568,
+            "popularity": 10171,
+            "members": 2479,
+            "favorites": 9,
+            "synopsis": "Hiromi continues developing her tennis and shows the results while undergoing an emotional change into an adult.\n\n(Source: AniDB)",
+            "background": null,
+            "season": null,
+            "year": null,
+            "broadcast": {
+            "day": null,
+            "time": null,
+            "timezone": null,
+            "string": null
+            },
+            "producers": [],
+            "licensors": [],
+            "studios": [
+            {
+            "mal_id": 65,
+            "type": "anime",
+            "name": "Tokyo Movie Shinsha",
+            "url": "https://myanimelist.net/anime/producer/65/Tokyo_Movie_Shinsha"
+            }
+            ],
+            "genres": [
+            {
+            "mal_id": 8,
+            "type": "anime",
+            "name": "Drama",
+            "url": "https://myanimelist.net/anime/genre/8/Drama"
+            },
+            {
+            "mal_id": 30,
+            "type": "anime",
+            "name": "Sports",
+            "url": "https://myanimelist.net/anime/genre/30/Sports"
+            }
+            ],
+            "explicit_genres": [],
+            "themes": [],
+            "demographics": [
+            {
+            "mal_id": 25,
+            "type": "anime",
+            "name": "Shoujo",
+            "url": "https://myanimelist.net/anime/genre/25/Shoujo"
+            }
+            ]
+            },
+            {
+            "mal_id": 313,
+            "url": "https://myanimelist.net/anime/313/Ace_wo_Nerae_1979",
+            "images": {
+            "jpg": {
+            "image_url": "https://cdn.myanimelist.net/images/anime/1306/100442.jpg",
+            "small_image_url": "https://cdn.myanimelist.net/images/anime/1306/100442t.jpg",
+            "large_image_url": "https://cdn.myanimelist.net/images/anime/1306/100442l.jpg"
+            },
+            "webp": {
+            "image_url": "https://cdn.myanimelist.net/images/anime/1306/100442.webp",
+            "small_image_url": "https://cdn.myanimelist.net/images/anime/1306/100442t.webp",
+            "large_image_url": "https://cdn.myanimelist.net/images/anime/1306/100442l.webp"
+            }
+            },
+            "trailer": {
+            "youtube_id": "6e01HyZyRbc",
+            "url": "https://www.youtube.com/watch?v=6e01HyZyRbc",
+            "embed_url": "https://www.youtube.com/embed/6e01HyZyRbc?enablejsapi=1&wmode=opaque&autoplay=1",
+            "images": {
+            "image_url": "https://img.youtube.com/vi/6e01HyZyRbc/default.jpg",
+            "small_image_url": "https://img.youtube.com/vi/6e01HyZyRbc/sddefault.jpg",
+            "medium_image_url": "https://img.youtube.com/vi/6e01HyZyRbc/mqdefault.jpg",
+            "large_image_url": "https://img.youtube.com/vi/6e01HyZyRbc/hqdefault.jpg",
+            "maximum_image_url": "https://img.youtube.com/vi/6e01HyZyRbc/maxresdefault.jpg"
+            }
+            },
+            "approved": true,
+            "titles": [
+            {
+            "type": "Default",
+            "title": "Ace wo Nerae! (1979)"
+            },
+            {
+            "type": "Synonym",
+            "title": "Ace o Nerae: Theatrical Version"
+            },
+            {
+            "type": "Synonym",
+            "title": "Aim for the Ace! Movie"
+            },
+            {
+            "type": "Synonym",
+            "title": "Aim for the Best!"
+            },
+            {
+            "type": "Synonym",
+            "title": "Jump High Hiromi!"
+            },
+            {
+            "type": "Japanese",
+            "title": "エースをねらえ！"
+            },
+            {
+            "type": "English",
+            "title": "Aim for the Ace! (1979)"
+            }
+            ],
+            "title": "Ace wo Nerae! (1979)",
+            "title_english": "Aim for the Ace! (1979)",
+            "title_japanese": "エースをねらえ！",
+            "title_synonyms": [
+            "Ace o Nerae: Theatrical Version",
+            "Aim for the Ace! Movie",
+            "Aim for the Best!",
+            "Jump High Hiromi!"
+            ],
+            "type": "Movie",
+            "source": "Unknown",
+            "episodes": 1,
+            "status": "Finished Airing",
+            "airing": false,
+            "aired": {
+            "from": "1979-09-08T00:00:00+00:00",
+            "to": null,
+            "prop": {
+            "from": {
+            "day": 8,
+            "month": 9,
+            "year": 1979
+            },
+            "to": {
+            "day": null,
+            "month": null,
+            "year": null
+            }
+            },
+            "string": "Sep 8, 1979"
+            },
+            "duration": "1 hr 30 min",
+            "rating": "PG-13 - Teens 13 or older",
+            "score": 6.95,
+            "scored_by": 1789,
+            "rank": 4310,
+            "popularity": 8530,
+            "members": 4410,
+            "favorites": 11,
+            "synopsis": "High school freshman Hiromi joins the tennis club because of her admiration for Ryuzaki. Ryuzaki is a senior, who's the best tennis player on the team and also nicknamed \"Ochoufujin\", (\"Madame Butterfly\"), because of her elegance on the tennis court. However, the new coach, Jin Munakata, wants the inexperienced Hiromi to play in a forthcoming tournament.\n\nDue to this, Hiromi considers quitting tennis for good but, in the depth of her soul, she soon realizes that she loves tennis after all. She returns to the club and, under Munakata's coaching, her talent starts to bloom.\n\nIn the end, Hiromi develops a strong emotional bond with her coach, not knowing that Munakata is risking his life because of a chronic illness.\n\n(Source: AnimeNfo)",
+            "background": null,
+            "season": null,
+            "year": null,
+            "broadcast": {
+            "day": null,
+            "time": null,
+            "timezone": null,
+            "string": null
+            },
+            "producers": [],
+            "licensors": [
+            {
+            "mal_id": 467,
+            "type": "anime",
+            "name": "Discotek Media",
+            "url": "https://myanimelist.net/anime/producer/467/Discotek_Media"
+            }
+            ],
+            "studios": [
+            {
+            "mal_id": 65,
+            "type": "anime",
+            "name": "Tokyo Movie Shinsha",
+            "url": "https://myanimelist.net/anime/producer/65/Tokyo_Movie_Shinsha"
+            }
+            ],
+            "genres": [
+            {
+            "mal_id": 8,
+            "type": "anime",
+            "name": "Drama",
+            "url": "https://myanimelist.net/anime/genre/8/Drama"
+            },
+            {
+            "mal_id": 22,
+            "type": "anime",
+            "name": "Romance",
+            "url": "https://myanimelist.net/anime/genre/22/Romance"
+            },
+            {
+            "mal_id": 30,
+            "type": "anime",
+            "name": "Sports",
+            "url": "https://myanimelist.net/anime/genre/30/Sports"
+            }
+            ],
+            "explicit_genres": [],
+            "themes": [
+            {
+            "mal_id": 23,
+            "type": "anime",
+            "name": "School",
+            "url": "https://myanimelist.net/anime/genre/23/School"
+            }
+            ],
+            "demographics": [
+            {
+            "mal_id": 25,
+            "type": "anime",
+            "name": "Shoujo",
+            "url": "https://myanimelist.net/anime/genre/25/Shoujo"
+            }
+            ]
+            },
+            {
+            "mal_id": 314,
+            "url": "https://myanimelist.net/anime/314/Ace_wo_Nerae_2",
+            "images": {
+            "jpg": {
+            "image_url": "https://cdn.myanimelist.net/images/anime/6/71785.jpg",
+            "small_image_url": "https://cdn.myanimelist.net/images/anime/6/71785t.jpg",
+            "large_image_url": "https://cdn.myanimelist.net/images/anime/6/71785l.jpg"
+            },
+            "webp": {
+            "image_url": "https://cdn.myanimelist.net/images/anime/6/71785.webp",
+            "small_image_url": "https://cdn.myanimelist.net/images/anime/6/71785t.webp",
+            "large_image_url": "https://cdn.myanimelist.net/images/anime/6/71785l.webp"
+            }
+            },
+            "trailer": {
+            "youtube_id": null,
+            "url": null,
+            "embed_url": null,
+            "images": {
+            "image_url": null,
+            "small_image_url": null,
+            "medium_image_url": null,
+            "large_image_url": null,
+            "maximum_image_url": null
+            }
+            },
+            "approved": true,
+            "titles": [
+            {
+            "type": "Default",
+            "title": "Ace wo Nerae! 2"
+            },
+            {
+            "type": "Synonym",
+            "title": "Ace wo Nerae! OVA 1"
+            },
+            {
+            "type": "Synonym",
+            "title": "Aim for the Ace! 2"
+            },
+            {
+            "type": "Japanese",
+            "title": "エースをねらえ！２"
+            },
+            {
+            "type": "French",
+            "title": "Jeu, Set et Match! 2"
+            }
+            ],
+            "title": "Ace wo Nerae! 2",
+            "title_english": null,
+            "title_japanese": "エースをねらえ！２",
+            "title_synonyms": [
+            "Ace wo Nerae! OVA 1",
+            "Aim for the Ace! 2"
+            ],
+            "type": "OVA",
+            "source": "Manga",
+            "episodes": 13,
+            "status": "Finished Airing",
+            "airing": false,
+            "aired": {
+            "from": "1988-07-25T00:00:00+00:00",
+            "to": "1988-10-25T00:00:00+00:00",
+            "prop": {
+            "from": {
+            "day": 25,
+            "month": 7,
+            "year": 1988
+            },
+            "to": {
+            "day": 25,
+            "month": 10,
+            "year": 1988
+            }
+            },
+            "string": "Jul 25, 1988 to Oct 25, 1988"
+            },
+            "duration": "24 min per ep",
+            "rating": "PG-13 - Teens 13 or older",
+            "score": 7.19,
+            "scored_by": 1129,
+            "rank": 3196,
+            "popularity": 9412,
+            "members": 3237,
+            "favorites": 28,
+            "synopsis": "Three years has passed since the events of the first series. Hiromi continued training with her coach and became Japan's junior champion. Their common profits have also contributed to the coach being chosen as the first trainer of the Japanese Selection of Tennis and is arranged to head a trip with the youngest members of the team to USA. The relation between Hiromi and its trainer is narrower at personal level but it exceeds the teacher-student bond with great difficulty. \n\n(Source: AniDB)",
+            "background": null,
+            "season": null,
+            "year": null,
+            "broadcast": {
+            "day": null,
+            "time": null,
+            "timezone": null,
+            "string": null
+            },
+            "producers": [
+            {
+            "mal_id": 23,
+            "type": "anime",
+            "name": "Bandai Visual",
+            "url": "https://myanimelist.net/anime/producer/23/Bandai_Visual"
+            },
+            {
+            "mal_id": 65,
+            "type": "anime",
+            "name": "Tokyo Movie Shinsha",
+            "url": "https://myanimelist.net/anime/producer/65/Tokyo_Movie_Shinsha"
+            },
+            {
+            "mal_id": 166,
+            "type": "anime",
+            "name": "Movic",
+            "url": "https://myanimelist.net/anime/producer/166/Movic"
+            }
+            ],
+            "licensors": [
+            {
+            "mal_id": 467,
+            "type": "anime",
+            "name": "Discotek Media",
+            "url": "https://myanimelist.net/anime/producer/467/Discotek_Media"
+            }
+            ],
+            "studios": [
+            {
+            "mal_id": 73,
+            "type": "anime",
+            "name": "TMS Entertainment",
+            "url": "https://myanimelist.net/anime/producer/73/TMS_Entertainment"
+            },
+            {
+            "mal_id": 583,
+            "type": "anime",
+            "name": "Annapuru",
+            "url": "https://myanimelist.net/anime/producer/583/Annapuru"
+            }
+            ],
+            "genres": [
+            {
+            "mal_id": 8,
+            "type": "anime",
+            "name": "Drama",
+            "url": "https://myanimelist.net/anime/genre/8/Drama"
+            },
+            {
+            "mal_id": 30,
+            "type": "anime",
+            "name": "Sports",
+            "url": "https://myanimelist.net/anime/genre/30/Sports"
+            }
+            ],
+            "explicit_genres": [],
+            "themes": [],
+            "demographics": [
+            {
+            "mal_id": 25,
+            "type": "anime",
+            "name": "Shoujo",
+            "url": "https://myanimelist.net/anime/genre/25/Shoujo"
+            }
+            ]
+            },
+            {
+            "mal_id": 359,
+            "url": "https://myanimelist.net/anime/359/Ill_CKBC",
+            "images": {
+            "jpg": {
+            "image_url": "https://cdn.myanimelist.net/images/anime/1/359.jpg",
+            "small_image_url": "https://cdn.myanimelist.net/images/anime/1/359t.jpg",
+            "large_image_url": "https://cdn.myanimelist.net/images/anime/1/359l.jpg"
+            },
+            "webp": {
+            "image_url": "https://cdn.myanimelist.net/images/anime/1/359.webp",
+            "small_image_url": "https://cdn.myanimelist.net/images/anime/1/359t.webp",
+            "large_image_url": "https://cdn.myanimelist.net/images/anime/1/359l.webp"
+            }
+            },
+            "trailer": {
+            "youtube_id": null,
+            "url": null,
+            "embed_url": null,
+            "images": {
+            "image_url": null,
+            "small_image_url": null,
+            "medium_image_url": null,
+            "large_image_url": null,
+            "maximum_image_url": null
+            }
+            },
+            "approved": true,
+            "titles": [
+            {
+            "type": "Default",
+            "title": "I'll/CKBC"
+            },
+            {
+            "type": "Synonym",
+            "title": "I'll / Crazy KOUZU Basketball Club"
+            },
+            {
+            "type": "Synonym",
+            "title": "Generation basket"
+            },
+            {
+            "type": "Japanese",
+            "title": "I'll/CKBC"
+            },
+            {
+            "type": "English",
+            "title": "I'll/CKBC"
+            }
+            ],
+            "title": "I'll/CKBC",
+            "title_english": "I'll/CKBC",
+            "title_japanese": "I'll/CKBC",
+            "title_synonyms": [
+            "I'll / Crazy KOUZU Basketball Club",
+            "Generation basket"
+            ],
+            "type": "OVA",
+            "source": "Manga",
+            "episodes": 2,
+            "status": "Finished Airing",
+            "airing": false,
+            "aired": {
+            "from": "2002-12-18T00:00:00+00:00",
+            "to": "2003-03-26T00:00:00+00:00",
+            "prop": {
+            "from": {
+            "day": 18,
+            "month": 12,
+            "year": 2002
+            },
+            "to": {
+            "day": 26,
+            "month": 3,
+            "year": 2003
+            }
+            },
+            "string": "Dec 18, 2002 to Mar 26, 2003"
+            },
+            "duration": "30 min per ep",
+            "rating": "PG-13 - Teens 13 or older",
+            "score": 6.2,
+            "scored_by": 2109,
+            "rank": 8256,
+            "popularity": 7864,
+            "members": 5487,
+            "favorites": 6,
+            "synopsis": "Pressured by his family's background and expectations, high school student Hitonari Hiiragi has been considering quitting basketball. However, after meeting Akane Tachibana, Hiiragi's love for the sport is reignited. As he joins the Kouzu High School basketball club, Hiiragi aims to pursue his own path in basketball together with his cherished teammates.\n\nBut despite having fun with his newfound comrades, Hiiragi eventually starts to question whether he can achieve his dreams with the current team and environment. As they each struggle with their differing approaches towards the sport, Hiiragi and the team ponder what it truly means to play basketball together.\n\n[Written by MAL Rewrite]",
+            "background": "I'll/CKBC has been dubbed in English by Bang Zoom! Entertainment and in French by Studio Chinkel.",
+            "season": null,
+            "year": null,
+            "broadcast": {
+            "day": null,
+            "time": null,
+            "timezone": null,
+            "string": null
+            },
+            "producers": [
+            {
+            "mal_id": 17,
+            "type": "anime",
+            "name": "Aniplex",
+            "url": "https://myanimelist.net/anime/producer/17/Aniplex"
+            },
+            {
+            "mal_id": 149,
+            "type": "anime",
+            "name": "SME Visual Works",
+            "url": "https://myanimelist.net/anime/producer/149/SME_Visual_Works"
+            }
+            ],
+            "licensors": [
+            {
+            "mal_id": 250,
+            "type": "anime",
+            "name": "Media Blasters",
+            "url": "https://myanimelist.net/anime/producer/250/Media_Blasters"
+            }
+            ],
+            "studios": [
+            {
+            "mal_id": 463,
+            "type": "anime",
+            "name": "M.S.C",
+            "url": "https://myanimelist.net/anime/producer/463/MSC"
+            }
+            ],
+            "genres": [
+            {
+            "mal_id": 1,
+            "type": "anime",
+            "name": "Action",
+            "url": "https://myanimelist.net/anime/genre/1/Action"
+            },
+            {
+            "mal_id": 30,
+            "type": "anime",
+            "name": "Sports",
+            "url": "https://myanimelist.net/anime/genre/30/Sports"
+            }
+            ],
+            "explicit_genres": [],
+            "themes": [
+            {
+            "mal_id": 23,
+            "type": "anime",
+            "name": "School",
+            "url": "https://myanimelist.net/anime/genre/23/School"
+            },
+            {
+            "mal_id": 77,
+            "type": "anime",
+            "name": "Team Sports",
+            "url": "https://myanimelist.net/anime/genre/77/Team_Sports"
+            }
+            ],
+            "demographics": [
+            {
+            "mal_id": 27,
+            "type": "anime",
+            "name": "Shounen",
+            "url": "https://myanimelist.net/anime/genre/27/Shounen"
+            }
+            ]
+            },
+            {
+            "mal_id": 386,
+            "url": "https://myanimelist.net/anime/386/H2",
+            "images": {
+            "jpg": {
+            "image_url": "https://cdn.myanimelist.net/images/anime/1480/105967.jpg",
+            "small_image_url": "https://cdn.myanimelist.net/images/anime/1480/105967t.jpg",
+            "large_image_url": "https://cdn.myanimelist.net/images/anime/1480/105967l.jpg"
+            },
+            "webp": {
+            "image_url": "https://cdn.myanimelist.net/images/anime/1480/105967.webp",
+            "small_image_url": "https://cdn.myanimelist.net/images/anime/1480/105967t.webp",
+            "large_image_url": "https://cdn.myanimelist.net/images/anime/1480/105967l.webp"
+            }
+            },
+            "trailer": {
+            "youtube_id": null,
+            "url": null,
+            "embed_url": null,
+            "images": {
+            "image_url": null,
+            "small_image_url": null,
+            "medium_image_url": null,
+            "large_image_url": null,
+            "maximum_image_url": null
+            }
+            },
+            "approved": true,
+            "titles": [
+            {
+            "type": "Default",
+            "title": "H2"
+            },
+            {
+            "type": "Japanese",
+            "title": "Ｈ２[エイチ・ツー]"
+            }
+            ],
+            "title": "H2",
+            "title_english": null,
+            "title_japanese": "Ｈ２[エイチ・ツー]",
+            "title_synonyms": [],
+            "type": "TV",
+            "source": "Manga",
+            "episodes": 41,
+            "status": "Finished Airing",
+            "airing": false,
+            "aired": {
+            "from": "1995-06-01T00:00:00+00:00",
+            "to": "1996-03-21T00:00:00+00:00",
+            "prop": {
+            "from": {
+            "day": 1,
+            "month": 6,
+            "year": 1995
+            },
+            "to": {
+            "day": 21,
+            "month": 3,
+            "year": 1996
+            }
+            },
+            "string": "Jun 1, 1995 to Mar 21, 1996"
+            },
+            "duration": "24 min per ep",
+            "rating": "PG-13 - Teens 13 or older",
+            "score": 7.23,
+            "scored_by": 3300,
+            "rank": 2979,
+            "popularity": 6167,
+            "members": 9976,
+            "favorites": 30,
+            "synopsis": "Hiro has two loves: baseball and porn, but due to an elbow injury, gives up baseball, choosing a school with no baseball team. His childhood friend Hikari attends a different school with baseball ace Hideo. The two of them wish that Hiro had not given up baseball. Hiro joins the soccer team and meets Haruka, a very clumsy girl who is also the daughter of his father's boss. Haruka is the manager of the unofficial baseball club at Hiro's school. When the soccer team challenges the baseball club to a game, with hopes of humiliating them, the baseball club nearly loses until Hiro, disgusted by the soccer team's arrogance, switches to the baseball club. \n\n(Source: ANN)",
+            "background": null,
+            "season": "summer",
+            "year": 1995,
+            "broadcast": {
+            "day": "Thursdays",
+            "time": "19:00",
+            "timezone": "Asia/Tokyo",
+            "string": "Thursdays at 19:00 (JST)"
+            },
+            "producers": [
+            {
+            "mal_id": 142,
+            "type": "anime",
+            "name": "Asatsu DK",
+            "url": "https://myanimelist.net/anime/producer/142/Asatsu_DK"
+            },
+            {
+            "mal_id": 245,
+            "type": "anime",
+            "name": "TOHO",
+            "url": "https://myanimelist.net/anime/producer/245/TOHO"
+            },
+            {
+            "mal_id": 1415,
+            "type": "anime",
+            "name": "Asahi Broadcasting",
+            "url": "https://myanimelist.net/anime/producer/1415/Asahi_Broadcasting"
+            }
+            ],
+            "licensors": [],
+            "studios": [
+            {
+            "mal_id": 242,
+            "type": "anime",
+            "name": "Ashi Productions",
+            "url": "https://myanimelist.net/anime/producer/242/Ashi_Productions"
+            }
+            ],
+            "genres": [
+            {
+            "mal_id": 4,
+            "type": "anime",
+            "name": "Comedy",
+            "url": "https://myanimelist.net/anime/genre/4/Comedy"
+            },
+            {
+            "mal_id": 22,
+            "type": "anime",
+            "name": "Romance",
+            "url": "https://myanimelist.net/anime/genre/22/Romance"
+            },
+            {
+            "mal_id": 30,
+            "type": "anime",
+            "name": "Sports",
+            "url": "https://myanimelist.net/anime/genre/30/Sports"
+            }
+            ],
+            "explicit_genres": [],
+            "themes": [
+            {
+            "mal_id": 77,
+            "type": "anime",
+            "name": "Team Sports",
+            "url": "https://myanimelist.net/anime/genre/77/Team_Sports"
+            }
+            ],
+            "demographics": [
+            {
+            "mal_id": 27,
+            "type": "anime",
+            "name": "Shounen",
+            "url": "https://myanimelist.net/anime/genre/27/Shounen"
+            }
+            ]
+            },
+            {
+            "mal_id": 388,
+            "url": "https://myanimelist.net/anime/388/Capeta",
+            "images": {
+            "jpg": {
+            "image_url": "https://cdn.myanimelist.net/images/anime/5/17667.jpg",
+            "small_image_url": "https://cdn.myanimelist.net/images/anime/5/17667t.jpg",
+            "large_image_url": "https://cdn.myanimelist.net/images/anime/5/17667l.jpg"
+            },
+            "webp": {
+            "image_url": "https://cdn.myanimelist.net/images/anime/5/17667.webp",
+            "small_image_url": "https://cdn.myanimelist.net/images/anime/5/17667t.webp",
+            "large_image_url": "https://cdn.myanimelist.net/images/anime/5/17667l.webp"
+            }
+            },
+            "trailer": {
+            "youtube_id": null,
+            "url": null,
+            "embed_url": null,
+            "images": {
+            "image_url": null,
+            "small_image_url": null,
+            "medium_image_url": null,
+            "large_image_url": null,
+            "maximum_image_url": null
+            }
+            },
+            "approved": true,
+            "titles": [
+            {
+            "type": "Default",
+            "title": "Capeta"
+            },
+            {
+            "type": "Japanese",
+            "title": "カペタ"
+            }
+            ],
+            "title": "Capeta",
+            "title_english": null,
+            "title_japanese": "カペタ",
+            "title_synonyms": [],
+            "type": "TV",
+            "source": "Manga",
+            "episodes": 52,
+            "status": "Finished Airing",
+            "airing": false,
+            "aired": {
+            "from": "2005-10-04T00:00:00+00:00",
+            "to": "2006-09-26T00:00:00+00:00",
+            "prop": {
+            "from": {
+            "day": 4,
+            "month": 10,
+            "year": 2005
+            },
+            "to": {
+            "day": 26,
+            "month": 9,
+            "year": 2006
+            }
+            },
+            "string": "Oct 4, 2005 to Sep 26, 2006"
+            },
+            "duration": "23 min per ep",
+            "rating": "PG - Children",
+            "score": 7.83,
+            "scored_by": 11534,
+            "rank": 878,
+            "popularity": 4126,
+            "members": 26539,
+            "favorites": 303,
+            "synopsis": "After losing his mother at a very young age, elementary school student Capeta Taira is forced to become more independent to avoid his father worrying for him. Working in a paving company, his father is often busy and has to work overtime to make ends meet. However, no matter how tough he acts in front of his father, Capeta is ultimately just a lonely kid with a rough life. In addition to his typical house duties, he has to deal with the bully Nobu Andou which makes him feel worse, despite support from his classmate, Monami Suzuki.\n\nOne day, Capeta's father sees young go-kart drivers racing at high speeds and gets inspired by the scene. He then decides to collect scrapped parts available on the track and begins working on a gift for his son. Meanwhile, Capeta and Monami sneak into his workplace, suspecting that his father is up to something.  Much to their surprise, they see a go-kart built from discarded parts—with Capeta's name attached to it! Although it lacks an engine and looks worn out, the kart is mostly complete and functional.\n\nDespite the heavy rain, Capeta cannot resist the urge to try out this new machinery. As he drives the kart downhill on a wet road, an incident that is almost a dangerous accident instead becomes a thrilling obsession. No longer bored with life, the engine of Capeta's heart is ignited with a new passion as he journeys into the world of racing. \n\n[Written by MAL Rewrite]",
+            "background": null,
+            "season": "fall",
+            "year": 2005,
+            "broadcast": {
+            "day": "Tuesdays",
+            "time": "18:00",
+            "timezone": "Asia/Tokyo",
+            "string": "Tuesdays at 18:00 (JST)"
+            },
+            "producers": [
+            {
+            "mal_id": 16,
+            "type": "anime",
+            "name": "TV Tokyo",
+            "url": "https://myanimelist.net/anime/producer/16/TV_Tokyo"
+            },
+            {
+            "mal_id": 64,
+            "type": "anime",
+            "name": "Sotsu",
+            "url": "https://myanimelist.net/anime/producer/64/Sotsu"
+            },
+            {
+            "mal_id": 82,
+            "type": "anime",
+            "name": "Marvelous Entertainment",
+            "url": "https://myanimelist.net/anime/producer/82/Marvelous_Entertainment"
+            },
+            {
+            "mal_id": 711,
+            "type": "anime",
+            "name": "Delfi Sound",
+            "url": "https://myanimelist.net/anime/producer/711/Delfi_Sound"
+            }
+            ],
+            "licensors": [],
+            "studios": [
+            {
+            "mal_id": 126,
+            "type": "anime",
+            "name": "Studio Comet",
+            "url": "https://myanimelist.net/anime/producer/126/Studio_Comet"
+            }
+            ],
+            "genres": [
+            {
+            "mal_id": 30,
+            "type": "anime",
+            "name": "Sports",
+            "url": "https://myanimelist.net/anime/genre/30/Sports"
+            }
+            ],
+            "explicit_genres": [],
+            "themes": [
+            {
+            "mal_id": 3,
+            "type": "anime",
+            "name": "Racing",
+            "url": "https://myanimelist.net/anime/genre/3/Racing"
+            }
+            ],
+            "demographics": [
+            {
+            "mal_id": 27,
+            "type": "anime",
+            "name": "Shounen",
+            "url": "https://myanimelist.net/anime/genre/27/Shounen"
+            }
+            ]
+            },
+            {
+            "mal_id": 390,
+            "url": "https://myanimelist.net/anime/390/Suzuka",
+            "images": {
+            "jpg": {
+            "image_url": "https://cdn.myanimelist.net/images/anime/9/33579.jpg",
+            "small_image_url": "https://cdn.myanimelist.net/images/anime/9/33579t.jpg",
+            "large_image_url": "https://cdn.myanimelist.net/images/anime/9/33579l.jpg"
+            },
+            "webp": {
+            "image_url": "https://cdn.myanimelist.net/images/anime/9/33579.webp",
+            "small_image_url": "https://cdn.myanimelist.net/images/anime/9/33579t.webp",
+            "large_image_url": "https://cdn.myanimelist.net/images/anime/9/33579l.webp"
+            }
+            },
+            "trailer": {
+            "youtube_id": "ICJ81eGJaao",
+            "url": "https://www.youtube.com/watch?v=ICJ81eGJaao",
+            "embed_url": "https://www.youtube.com/embed/ICJ81eGJaao?enablejsapi=1&wmode=opaque&autoplay=1",
+            "images": {
+            "image_url": "https://img.youtube.com/vi/ICJ81eGJaao/default.jpg",
+            "small_image_url": "https://img.youtube.com/vi/ICJ81eGJaao/sddefault.jpg",
+            "medium_image_url": "https://img.youtube.com/vi/ICJ81eGJaao/mqdefault.jpg",
+            "large_image_url": "https://img.youtube.com/vi/ICJ81eGJaao/hqdefault.jpg",
+            "maximum_image_url": "https://img.youtube.com/vi/ICJ81eGJaao/maxresdefault.jpg"
+            }
+            },
+            "approved": true,
+            "titles": [
+            {
+            "type": "Default",
+            "title": "Suzuka"
+            },
+            {
+            "type": "Japanese",
+            "title": "涼風"
+            },
+            {
+            "type": "English",
+            "title": "Suzuka"
+            }
+            ],
+            "title": "Suzuka",
+            "title_english": "Suzuka",
+            "title_japanese": "涼風",
+            "title_synonyms": [],
+            "type": "TV",
+            "source": "Manga",
+            "episodes": 26,
+            "status": "Finished Airing",
+            "airing": false,
+            "aired": {
+            "from": "2005-07-07T00:00:00+00:00",
+            "to": "2005-12-29T00:00:00+00:00",
+            "prop": {
+            "from": {
+            "day": 7,
+            "month": 7,
+            "year": 2005
+            },
+            "to": {
+            "day": 29,
+            "month": 12,
+            "year": 2005
+            }
+            },
+            "string": "Jul 7, 2005 to Dec 29, 2005"
+            },
+            "duration": "23 min per ep",
+            "rating": "PG-13 - Teens 13 or older",
+            "score": 7.18,
+            "scored_by": 53754,
+            "rank": 3234,
+            "popularity": 1802,
+            "members": 114702,
+            "favorites": 642,
+            "synopsis": "Teenager Yamato Akitsuki has moved from the Hiroshima countryside to Tokyo to begin his high school career. In return for room and board, he has agreed to help his aunt and cousin run their bathhouse and the adjacent girls-only dormitory where he will be staying. On his way to meet his relatives, he passes by a local high school track and is mesmerized by a high jumper practicing her technique.\n\nLater on, Yamato finds out that the high jumper is not just another resident of the dorm, but is also his neighbor. Suzuka Asahina is a heavily scouted track and field athlete who is attending the same high school he is enrolled in. A perfectionist by nature, Suzuka is put off by Yamato's clumsy and carefree attitude and finds it difficult to be near him.\n\nDetermined to win her over, Yamato joins the track team after discovering his hidden talent for sprinting. Through his interactions with the track team, his classmates, and the ever-inebriated college students in the dorm, Yamato finds the resolve to become a better athlete and a more suitable companion to Suzuka, even if it means pushing himself to the point of exhaustion.\n\n[Written by MAL Rewrite]",
+            "background": "Suzuka aired weekly on TV Tokyo from July 7, 2005 to December 29, 2005. The anime closely adapts the first 72 chapters of the manga, but particular changes were made to accommodate younger audiences. \n \n The anime was licensed by Funimation in North America. The company released six DVDs containing English dubbing from June 12, 2007 to January 8, 2008. Philippines TV channel Hero aired the series dubbed in Tagalog starting on December 3, 2006.",
+            "season": "summer",
+            "year": 2005,
+            "broadcast": {
+            "day": "Thursdays",
+            "time": "01:00",
+            "timezone": "Asia/Tokyo",
+            "string": "Thursdays at 01:00 (JST)"
+            },
+            "producers": [
+            {
+            "mal_id": 82,
+            "type": "anime",
+            "name": "Marvelous Entertainment",
+            "url": "https://myanimelist.net/anime/producer/82/Marvelous_Entertainment"
+            },
+            {
+            "mal_id": 92,
+            "type": "anime",
+            "name": "Starchild Records",
+            "url": "https://myanimelist.net/anime/producer/92/Starchild_Records"
+            },
+            {
+            "mal_id": 829,
+            "type": "anime",
+            "name": "Studio Jack",
+            "url": "https://myanimelist.net/anime/producer/829/Studio_Jack"
+            }
+            ],
+            "licensors": [
+            {
+            "mal_id": 102,
+            "type": "anime",
+            "name": "Funimation",
+            "url": "https://myanimelist.net/anime/producer/102/Funimation"
+            }
+            ],
+            "studios": [
+            {
+            "mal_id": 126,
+            "type": "anime",
+            "name": "Studio Comet",
+            "url": "https://myanimelist.net/anime/producer/126/Studio_Comet"
+            }
+            ],
+            "genres": [
+            {
+            "mal_id": 8,
+            "type": "anime",
+            "name": "Drama",
+            "url": "https://myanimelist.net/anime/genre/8/Drama"
+            },
+            {
+            "mal_id": 22,
+            "type": "anime",
+            "name": "Romance",
+            "url": "https://myanimelist.net/anime/genre/22/Romance"
+            },
+            {
+            "mal_id": 30,
+            "type": "anime",
+            "name": "Sports",
+            "url": "https://myanimelist.net/anime/genre/30/Sports"
+            }
+            ],
+            "explicit_genres": [],
+            "themes": [],
+            "demographics": [
+            {
+            "mal_id": 27,
+            "type": "anime",
+            "name": "Shounen",
+            "url": "https://myanimelist.net/anime/genre/27/Shounen"
+            }
+            ]
+            },
+            {
+            "mal_id": 406,
+            "url": "https://myanimelist.net/anime/406/Buzzer_Beater",
+            "images": {
+            "jpg": {
+            "image_url": "https://cdn.myanimelist.net/images/anime/6/57421.jpg",
+            "small_image_url": "https://cdn.myanimelist.net/images/anime/6/57421t.jpg",
+            "large_image_url": "https://cdn.myanimelist.net/images/anime/6/57421l.jpg"
+            },
+            "webp": {
+            "image_url": "https://cdn.myanimelist.net/images/anime/6/57421.webp",
+            "small_image_url": "https://cdn.myanimelist.net/images/anime/6/57421t.webp",
+            "large_image_url": "https://cdn.myanimelist.net/images/anime/6/57421l.webp"
+            }
+            },
+            "trailer": {
+            "youtube_id": null,
+            "url": null,
+            "embed_url": null,
+            "images": {
+            "image_url": null,
+            "small_image_url": null,
+            "medium_image_url": null,
+            "large_image_url": null,
+            "maximum_image_url": null
+            }
+            },
+            "approved": true,
+            "titles": [
+            {
+            "type": "Default",
+            "title": "Buzzer Beater"
+            },
+            {
+            "type": "Japanese",
+            "title": "BUZZER BEATER"
+            },
+            {
+            "type": "French",
+            "title": "BUZZER BEATER WARM-UP"
+            }
+            ],
+            "title": "Buzzer Beater",
+            "title_english": null,
+            "title_japanese": "BUZZER BEATER",
+            "title_synonyms": [],
+            "type": "TV",
+            "source": "Web manga",
+            "episodes": 13,
+            "status": "Finished Airing",
+            "airing": false,
+            "aired": {
+            "from": "2005-02-05T00:00:00+00:00",
+            "to": "2005-04-30T00:00:00+00:00",
+            "prop": {
+            "from": {
+            "day": 5,
+            "month": 2,
+            "year": 2005
+            },
+            "to": {
+            "day": 30,
+            "month": 4,
+            "year": 2005
+            }
+            },
+            "string": "Feb 5, 2005 to Apr 30, 2005"
+            },
+            "duration": "25 min per ep",
+            "rating": "PG-13 - Teens 13 or older",
+            "score": 6.52,
+            "scored_by": 6436,
+            "rank": 6473,
+            "popularity": 5210,
+            "members": 15184,
+            "favorites": 17,
+            "synopsis": "Hideyoshi is a homeless boy living in New York in the near future, who survives by hustling other kids in basketball games. But now he's been drafted into a pro team-a pro team with a very unique goal. There once was a time when humans dominated the game of basketball. But times have changed, and now the physically superior alien players have taken over the game, and there are barely any human players left. But Hideyoshi's team-the first all-human team to compete in the Space League-intends to change all that, and bring the championship back home to Earth.\n\n(Source: ANN)",
+            "background": null,
+            "season": "winter",
+            "year": 2005,
+            "broadcast": {
+            "day": "Saturdays",
+            "time": "19:00",
+            "timezone": "Asia/Tokyo",
+            "string": "Saturdays at 19:00 (JST)"
+            },
+            "producers": [],
+            "licensors": [],
+            "studios": [
+            {
+            "mal_id": 73,
+            "type": "anime",
+            "name": "TMS Entertainment",
+            "url": "https://myanimelist.net/anime/producer/73/TMS_Entertainment"
+            }
+            ],
+            "genres": [
+            {
+            "mal_id": 24,
+            "type": "anime",
+            "name": "Sci-Fi",
+            "url": "https://myanimelist.net/anime/genre/24/Sci-Fi"
+            },
+            {
+            "mal_id": 30,
+            "type": "anime",
+            "name": "Sports",
+            "url": "https://myanimelist.net/anime/genre/30/Sports"
+            }
+            ],
+            "explicit_genres": [],
+            "themes": [
+            {
+            "mal_id": 77,
+            "type": "anime",
+            "name": "Team Sports",
+            "url": "https://myanimelist.net/anime/genre/77/Team_Sports"
+            }
+            ],
+            "demographics": []
+            },
+            {
+            "mal_id": 425,
+            "url": "https://myanimelist.net/anime/425/Shiritsu_Araiso_Koutougakkou_Seitokai_Shikkoubu",
+            "images": {
+            "jpg": {
+            "image_url": "https://cdn.myanimelist.net/images/anime/7/31701.jpg",
+            "small_image_url": "https://cdn.myanimelist.net/images/anime/7/31701t.jpg",
+            "large_image_url": "https://cdn.myanimelist.net/images/anime/7/31701l.jpg"
+            },
+            "webp": {
+            "image_url": "https://cdn.myanimelist.net/images/anime/7/31701.webp",
+            "small_image_url": "https://cdn.myanimelist.net/images/anime/7/31701t.webp",
+            "large_image_url": "https://cdn.myanimelist.net/images/anime/7/31701l.webp"
+            }
+            },
+            "trailer": {
+            "youtube_id": null,
+            "url": null,
+            "embed_url": null,
+            "images": {
+            "image_url": null,
+            "small_image_url": null,
+            "medium_image_url": null,
+            "large_image_url": null,
+            "maximum_image_url": null
+            }
+            },
+            "approved": true,
+            "titles": [
+            {
+            "type": "Default",
+            "title": "Shiritsu Araiso Koutougakkou Seitokai Shikkoubu"
+            },
+            {
+            "type": "Japanese",
+            "title": "私立荒磯高等学校生徒会執行部"
+            },
+            {
+            "type": "English",
+            "title": "Araiso Private High School Student Council Executive Committee"
+            }
+            ],
+            "title": "Shiritsu Araiso Koutougakkou Seitokai Shikkoubu",
+            "title_english": "Araiso Private High School Student Council Executive Committee",
+            "title_japanese": "私立荒磯高等学校生徒会執行部",
+            "title_synonyms": [],
+            "type": "OVA",
+            "source": "Manga",
+            "episodes": 2,
+            "status": "Finished Airing",
+            "airing": false,
+            "aired": {
+            "from": "2002-03-29T00:00:00+00:00",
+            "to": "2002-07-26T00:00:00+00:00",
+            "prop": {
+            "from": {
+            "day": 29,
+            "month": 3,
+            "year": 2002
+            },
+            "to": {
+            "day": 26,
+            "month": 7,
+            "year": 2002
+            }
+            },
+            "string": "Mar 29, 2002 to Jul 26, 2002"
+            },
+            "duration": "26 min per ep",
+            "rating": "PG-13 - Teens 13 or older",
+            "score": 6.37,
+            "scored_by": 3059,
+            "rank": 7338,
+            "popularity": 7138,
+            "members": 6953,
+            "favorites": 10,
+            "synopsis": "Kubota Makoto and Tokitoh Minoru (characters from Kazuya Minekura's manga Wild Adaptor—though no reference is made to the darker storyline of WA in this light-hearted anime)—are the muscle of their high school's all-powerful student council. They defend the student body from disorder—generated by both humans and demons—while avoiding their classes.\n\n(Source: ANN)",
+            "background": null,
+            "season": null,
+            "year": null,
+            "broadcast": {
+            "day": null,
+            "time": null,
+            "timezone": null,
+            "string": null
+            },
+            "producers": [
+            {
+            "mal_id": 166,
+            "type": "anime",
+            "name": "Movic",
+            "url": "https://myanimelist.net/anime/producer/166/Movic"
+            },
+            {
+            "mal_id": 382,
+            "type": "anime",
+            "name": "Tokuma Shoten",
+            "url": "https://myanimelist.net/anime/producer/382/Tokuma_Shoten"
+            }
+            ],
+            "licensors": [],
+            "studios": [
+            {
+            "mal_id": 22,
+            "type": "anime",
+            "name": "Nippon Animation",
+            "url": "https://myanimelist.net/anime/producer/22/Nippon_Animation"
+            }
+            ],
+            "genres": [
+            {
+            "mal_id": 28,
+            "type": "anime",
+            "name": "Boys Love",
+            "url": "https://myanimelist.net/anime/genre/28/Boys_Love"
+            },
+            {
+            "mal_id": 4,
+            "type": "anime",
+            "name": "Comedy",
+            "url": "https://myanimelist.net/anime/genre/4/Comedy"
+            },
+            {
+            "mal_id": 30,
+            "type": "anime",
+            "name": "Sports",
+            "url": "https://myanimelist.net/anime/genre/30/Sports"
+            }
+            ],
+            "explicit_genres": [],
+            "themes": [],
+            "demographics": []
+            },
+            {
+            "mal_id": 476,
+            "url": "https://myanimelist.net/anime/476/Ginban_Kaleidoscope",
+            "images": {
+            "jpg": {
+            "image_url": "https://cdn.myanimelist.net/images/anime/8/19926.jpg",
+            "small_image_url": "https://cdn.myanimelist.net/images/anime/8/19926t.jpg",
+            "large_image_url": "https://cdn.myanimelist.net/images/anime/8/19926l.jpg"
+            },
+            "webp": {
+            "image_url": "https://cdn.myanimelist.net/images/anime/8/19926.webp",
+            "small_image_url": "https://cdn.myanimelist.net/images/anime/8/19926t.webp",
+            "large_image_url": "https://cdn.myanimelist.net/images/anime/8/19926l.webp"
+            }
+            },
+            "trailer": {
+            "youtube_id": null,
+            "url": null,
+            "embed_url": null,
+            "images": {
+            "image_url": null,
+            "small_image_url": null,
+            "medium_image_url": null,
+            "large_image_url": null,
+            "maximum_image_url": null
+            }
+            },
+            "approved": true,
+            "titles": [
+            {
+            "type": "Default",
+            "title": "Ginban Kaleidoscope"
+            },
+            {
+            "type": "Japanese",
+            "title": "銀盤カレイドスコープ"
+            },
+            {
+            "type": "English",
+            "title": "Skating Rink Kaleidoscope"
+            }
+            ],
+            "title": "Ginban Kaleidoscope",
+            "title_english": "Skating Rink Kaleidoscope",
+            "title_japanese": "銀盤カレイドスコープ",
+            "title_synonyms": [],
+            "type": "TV",
+            "source": "Light novel",
+            "episodes": 12,
+            "status": "Finished Airing",
+            "airing": false,
+            "aired": {
+            "from": "2005-10-09T00:00:00+00:00",
+            "to": "2005-12-25T00:00:00+00:00",
+            "prop": {
+            "from": {
+            "day": 9,
+            "month": 10,
+            "year": 2005
+            },
+            "to": {
+            "day": 25,
+            "month": 12,
+            "year": 2005
+            }
+            },
+            "string": "Oct 9, 2005 to Dec 25, 2005"
+            },
+            "duration": "24 min per ep",
+            "rating": "PG-13 - Teens 13 or older",
+            "score": 7.31,
+            "scored_by": 22746,
+            "rank": 2579,
+            "popularity": 3006,
+            "members": 48995,
+            "favorites": 156,
+            "synopsis": "Figure skater Tazusa Sakurano is on the fast track to the Olympics. As a top contender, her chances rest on a single competition in Canada. However, during her program, she falls and hits her head on the ice, knocking her unconscious. At the same time, Canadian stunt pilot Pete Pumps goes down in a fiery blaze.\n\nAfter her devastating failure, Tazusa returns home to Japan, but she starts hearing a voice in her head. In reality, when Pete had arrived at the gates of heaven, he was denied access for his sins. Instead, he was told to wait 100 days and is now trapped in Tazusa's body! Unwilling to let this interrupt her life—even if her body is a bit crowded—Tazusa moves forward with skating, all while a pesky voice may just be able to help her achieve her dream.\n\n[Written by MAL Rewrite]",
+            "background": null,
+            "season": "fall",
+            "year": 2005,
+            "broadcast": {
+            "day": "Sundays",
+            "time": "02:40",
+            "timezone": "Asia/Tokyo",
+            "string": "Sundays at 02:40 (JST)"
+            },
+            "producers": [
+            {
+            "mal_id": 17,
+            "type": "anime",
+            "name": "Aniplex",
+            "url": "https://myanimelist.net/anime/producer/17/Aniplex"
+            }
+            ],
+            "licensors": [],
+            "studios": [
+            {
+            "mal_id": 890,
+            "type": "anime",
+            "name": "Karaku",
+            "url": "https://myanimelist.net/anime/producer/890/Karaku"
+            }
+            ],
+            "genres": [
+            {
+            "mal_id": 8,
+            "type": "anime",
+            "name": "Drama",
+            "url": "https://myanimelist.net/anime/genre/8/Drama"
+            },
+            {
+            "mal_id": 22,
+            "type": "anime",
+            "name": "Romance",
+            "url": "https://myanimelist.net/anime/genre/22/Romance"
+            },
+            {
+            "mal_id": 30,
+            "type": "anime",
+            "name": "Sports",
+            "url": "https://myanimelist.net/anime/genre/30/Sports"
+            },
+            {
+            "mal_id": 37,
+            "type": "anime",
+            "name": "Supernatural",
+            "url": "https://myanimelist.net/anime/genre/37/Supernatural"
+            }
+            ],
+            "explicit_genres": [],
+            "themes": [
+            {
+            "mal_id": 70,
+            "type": "anime",
+            "name": "Performing Arts",
+            "url": "https://myanimelist.net/anime/genre/70/Performing_Arts"
+            }
+            ],
+            "demographics": []
+            },
+            {
+            "mal_id": 551,
+            "url": "https://myanimelist.net/anime/551/Grappler_Baki__Saidai_Tournament-hen",
+            "images": {
+            "jpg": {
+            "image_url": "https://cdn.myanimelist.net/images/anime/1433/96723.jpg",
+            "small_image_url": "https://cdn.myanimelist.net/images/anime/1433/96723t.jpg",
+            "large_image_url": "https://cdn.myanimelist.net/images/anime/1433/96723l.jpg"
+            },
+            "webp": {
+            "image_url": "https://cdn.myanimelist.net/images/anime/1433/96723.webp",
+            "small_image_url": "https://cdn.myanimelist.net/images/anime/1433/96723t.webp",
+            "large_image_url": "https://cdn.myanimelist.net/images/anime/1433/96723l.webp"
+            }
+            },
+            "trailer": {
+            "youtube_id": null,
+            "url": null,
+            "embed_url": null,
+            "images": {
+            "image_url": null,
+            "small_image_url": null,
+            "medium_image_url": null,
+            "large_image_url": null,
+            "maximum_image_url": null
+            }
+            },
+            "approved": true,
+            "titles": [
+            {
+            "type": "Default",
+            "title": "Grappler Baki: Saidai Tournament-hen"
+            },
+            {
+            "type": "Synonym",
+            "title": "Baki the Grappler II"
+            },
+            {
+            "type": "Synonym",
+            "title": "Grappler Baki Second Season"
+            },
+            {
+            "type": "Synonym",
+            "title": "Baki The Grappler - The Ultimate Tournament"
+            },
+            {
+            "type": "Synonym",
+            "title": "Grappler Baki Maximum Tournament"
+            },
+            {
+            "type": "Japanese",
+            "title": "グラップラー刃牙(バキ) 最大トーナメント編"
+            },
+            {
+            "type": "English",
+            "title": "Baki the Grappler: Saidai Tournament-hen"
+            },
+            {
+            "type": "French",
+            "title": "Baki The Grappler Saison 2: Maximum Tournament"
+            }
+            ],
+            "title": "Grappler Baki: Saidai Tournament-hen",
+            "title_english": "Baki the Grappler: Saidai Tournament-hen",
+            "title_japanese": "グラップラー刃牙(バキ) 最大トーナメント編",
+            "title_synonyms": [
+            "Baki the Grappler II",
+            "Grappler Baki Second Season",
+            "Baki The Grappler - The Ultimate Tournament",
+            "Grappler Baki Maximum Tournament"
+            ],
+            "type": "TV",
+            "source": "Manga",
+            "episodes": 24,
+            "status": "Finished Airing",
+            "airing": false,
+            "aired": {
+            "from": "2001-07-24T00:00:00+00:00",
+            "to": "2001-12-25T00:00:00+00:00",
+            "prop": {
+            "from": {
+            "day": 24,
+            "month": 7,
+            "year": 2001
+            },
+            "to": {
+            "day": 25,
+            "month": 12,
+            "year": 2001
+            }
+            },
+            "string": "Jul 24, 2001 to Dec 25, 2001"
+            },
+            "duration": "24 min per ep",
+            "rating": "R - 17+ (violence & profanity)",
+            "score": 7.49,
+            "scored_by": 47350,
+            "rank": 1816,
+            "popularity": 2190,
+            "members": 85142,
+            "favorites": 272,
+            "synopsis": "Mitsunari Tokugawa, the organizer of the historic Tokugawa underground fighting ring, has created a tournament featuring 38 of the world's best fighters, many of whom are grandmasters in their respective form of martial arts. With the exception of weapons, anything goes in Tokugawa's ring so that each fighter is able to showcase their true power and strongest secret moves.\n\nBaki Hanma earned a place in the tournament due to his status as the reigning champion of Tokugawa's fighting ring. Will he be able to come out on top? \n\n[Written by MAL Rewrite]",
+            "background": null,
+            "season": "summer",
+            "year": 2001,
+            "broadcast": {
+            "day": null,
+            "time": null,
+            "timezone": null,
+            "string": "Unknown"
+            },
+            "producers": [],
+            "licensors": [
+            {
+            "mal_id": 102,
+            "type": "anime",
+            "name": "Funimation",
+            "url": "https://myanimelist.net/anime/producer/102/Funimation"
+            }
+            ],
+            "studios": [
+            {
+            "mal_id": 86,
+            "type": "anime",
+            "name": "Group TAC",
+            "url": "https://myanimelist.net/anime/producer/86/Group_TAC"
+            }
+            ],
+            "genres": [
+            {
+            "mal_id": 30,
+            "type": "anime",
+            "name": "Sports",
+            "url": "https://myanimelist.net/anime/genre/30/Sports"
+            }
+            ],
+            "explicit_genres": [],
+            "themes": [
+            {
+            "mal_id": 54,
+            "type": "anime",
+            "name": "Combat Sports",
+            "url": "https://myanimelist.net/anime/genre/54/Combat_Sports"
+            },
+            {
+            "mal_id": 58,
+            "type": "anime",
+            "name": "Gore",
+            "url": "https://myanimelist.net/anime/genre/58/Gore"
+            }
+            ],
+            "demographics": [
+            {
+            "mal_id": 27,
+            "type": "anime",
+            "name": "Shounen",
+            "url": "https://myanimelist.net/anime/genre/27/Shounen"
+            }
+            ]
+            }
     ]
     }
